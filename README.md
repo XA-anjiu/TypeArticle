@@ -49,6 +49,38 @@ Android（华为 MatePad 等无 GMS 设备）与 Windows 桌面端共用同一�
 
 ---
 
+## 📸 截图
+
+<p align="center">
+  <img src="docs/screenshot-article.jpg" alt="文章跟打" width="100%">
+</p>
+
+<p align="center">
+  <em>32 篇范文逐句跟打：当前句加深、当前词高亮、打错标红，译文逐句对照</em>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="docs/screenshot-word.jpg" alt="单词默写" width="100%">
+</p>
+
+<p align="center">
+  <em>单词默写：中文释义 + 美式音标，固定乱序依次拼写，拼完按空格 / 回车进入下一词</em>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="docs/screenshot-dark.jpg" alt="夜间模式" width="100%">
+</p>
+
+<p align="center">
+  <em>沉浸式夜间模式，安静专注地练习</em>
+</p>
+
+---
+
 ## 🚀 快速开始
 
 ### 方式一：直接下载（推荐）
