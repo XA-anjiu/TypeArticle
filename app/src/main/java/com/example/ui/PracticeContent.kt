@@ -437,6 +437,34 @@ fun WordPractice(state: WordUiState, vm: WordDictationViewModel) {
             }
         }
 
+        if (state.isEnd) {
+            Box(Modifier.fillMaxSize().background(c.bg.copy(alpha = 0.94f)), contentAlignment = Alignment.Center) {
+                CardSurface(Modifier.width(600.dp)) {
+                    Column(
+                        Modifier.padding(36.dp),
+                        horizontalAlignment = Alignment.CenterHorizontally,
+                    ) {
+                        Text("🎉", fontSize = 44.sp)
+                        Spacer(Modifier.height(10.dp))
+                        Text(
+                            "恭喜，本词库已默写完成！",
+                            color = c.primary, fontFamily = mono, fontWeight = FontWeight.Bold, fontSize = 26.sp,
+                        )
+                        Spacer(Modifier.height(8.dp))
+                        Text(
+                            "${state.bookName} · 共 ${state.totalWords} 词 · 用时 ${formatMs(state.stats.spendMs)} · 错 ${state.stats.wrongCount}",
+                            color = c.soft, fontFamily = mono, fontSize = 14.sp,
+                        )
+                        Spacer(Modifier.height(22.dp))
+                        Row(horizontalArrangement = Arrangement.spacedBy(12.dp)) {
+                            EuPrimary("再来一遍") { vm.restartBook() }
+                            EuGhost("看错词") { showWrong = true }
+                        }
+                    }
+                }
+            }
+        }
+
         if (showWrong) {
             WrongStatsDialog(
                 stats = wrongStats,

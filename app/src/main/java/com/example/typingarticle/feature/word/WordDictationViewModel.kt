@@ -14,6 +14,7 @@ import com.example.typingarticle.core.engine.KeyMapper
 import com.example.typingarticle.core.engine.TypingEngine
 import com.example.typingarticle.core.model.EngineEvent
 import com.example.typingarticle.core.model.EngineSnapshot
+import com.example.typingarticle.core.model.Cursor
 import com.example.typingarticle.core.model.Sentence
 import com.example.typingarticle.core.model.Settings
 import com.example.typingarticle.core.model.Token
@@ -111,7 +112,7 @@ class WordDictationViewModel(
         }
     }
 
-    fun openBook(bookId: String) {
+    fun openBook(bookId: String, restart: Boolean = false) {
         viewModelScope.launch {
             _uiState.value = _uiState.value.copy(isLoading = true, errorMessage = null)
             val book = wordRepository.getWordBook(bookId)
@@ -125,12 +126,20 @@ class WordDictationViewModel(
                 return@launch
             }
 
-            currentWordList = words.shuffled()
+            currentWordList = words
             wrongWordsSet.clear()
             startedAt = System.currentTimeMillis()
             totalSpendMs = 0L
 
-            loadWordsIntoEngine(currentWordList)
+            // 进度续练：重练则从头，否则接着上次的词继续
+            val startIdx = if (restart) {
+                wordRepository.saveProgress(bookId, 0)
+                0
+            } else {
+                wordRepository.getProgress(bookId).coerceIn(0, (words.size - 1).coerceAtLeast(0))
+            }
+
+            loadWordsIntoEngine(currentWordList, startIdx)
 
             _uiState.value = _uiState.value.copy(
                 bookId = bookId,
@@ -143,6 +152,12 @@ class WordDictationViewModel(
             // 首次发音当前词
             replayWord()
         }
+    }
+
+    /** 从第一个词重新开始本词库 */
+    fun restartBook() {
+        val id = _uiState.value.bookId
+        if (id.isNotEmpty()) openBook(id, restart = true)
     }
 
     /**
@@ -259,7 +274,7 @@ class WordDictationViewModel(
         viewModelScope.launch { wrongWordRepository.clear() }
     }
 
-    private fun loadWordsIntoEngine(words: List<WordEntity>) {
+    private fun loadWordsIntoEngine(words: List<WordEntity>, startIndex: Int = 0) {
         // 将单词序列抽象为段落列表：每个单词是一个 section，包含一句单一 Token。
         // nextSpace=true：拼完不自动跳转，需按空格 / 回车才进入下一个单词，便于检查拼写。
         val sections = words.mapIndexed { idx, wordEntity ->
@@ -279,7 +294,8 @@ class WordDictationViewModel(
                 )
             )
         }
-        engine.loadSections(sections)
+        val start = startIndex.coerceIn(0, (sections.size - 1).coerceAtLeast(0))
+        engine.loadSections(sections, Cursor(sectionIdx = start, sentenceIdx = 0, wordIdx = 0, charIdx = 0))
     }
 
     private fun handleEngineEvent(event: EngineEvent) {
@@ -318,6 +334,10 @@ class WordDictationViewModel(
                         total = currentWordList.size,
                         wrong = wrongWordsSet.size
                     )
+                    // 整库默写完成：进度归零，下一轮从头开始
+                    if (!_uiState.value.isWrongOnlyMode && currentBookId.isNotEmpty()) {
+                        wordRepository.saveProgress(currentBookId, 0)
+                    }
                 }
             }
             else -> {}
@@ -362,6 +382,13 @@ class WordDictationViewModel(
             isEnd = isFinished
         )
         updateWordStats()
+
+        // 进度续练：记录当前词位置（错词重练模式不写入）
+        val idx = snapshot.cursor.sectionIdx
+        val bookId = _uiState.value.bookId
+        if (!isFinished && !_uiState.value.isWrongOnlyMode && idx in currentWordList.indices && bookId.isNotEmpty()) {
+            viewModelScope.launch { wordRepository.saveProgress(bookId, idx) }
+        }
     }
 
     private fun updateWordStats() {

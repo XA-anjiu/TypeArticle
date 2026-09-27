@@ -111,23 +111,19 @@ object BuiltinContentProvider {
         )
     }
 
-    /** 解析词表 JSON：[{word, phonetic0, trans}] */
+    /** 解析词表 JSON：[{word, phonetic0, trans}]，并打乱一次固化顺序（避免按字母序） */
     private fun parseWordList(raw: String?, bookId: String): List<WordEntity> {
         if (raw.isNullOrBlank()) return emptyList()
         return try {
             val arr = JSONArray(raw)
-            (0 until arr.length()).mapNotNull { i ->
+            val items = (0 until arr.length()).mapNotNull { i ->
                 val o = arr.optJSONObject(i) ?: return@mapNotNull null
                 val w = o.optString("word").trim()
                 if (w.isEmpty()) return@mapNotNull null
-                WordEntity(
-                    bookId = bookId,
-                    idx = i,
-                    word = w,
-                    phonetic0 = o.optString("phonetic0").takeIf { it.isNotBlank() },
-                    phonetic1 = o.optString("phonetic1").takeIf { it.isNotBlank() },
-                    trans = o.optString("trans").takeIf { it.isNotBlank() },
-                )
+                Triple(w, o.optString("phonetic0").takeIf { it.isNotBlank() }, o.optString("trans").takeIf { it.isNotBlank() })
+            }
+            items.shuffled().mapIndexed { idx, (w, ph, tr) ->
+                WordEntity(bookId = bookId, idx = idx, word = w, phonetic0 = ph, phonetic1 = ph, trans = tr)
             }
         } catch (e: Exception) {
             e.printStackTrace()

@@ -38,7 +38,7 @@ import com.example.typingarticle.core.data.local.entity.WrongWordEntity
         ResourceEntity::class,
         WrongWordEntity::class
     ],
-    version = 2,
+    version = 3,
     exportSchema = false
 )
 abstract class AppDatabase : RoomDatabase() {
