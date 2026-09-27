@@ -21,6 +21,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.heightIn
+import androidx.compose.foundation.layout.offset
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
@@ -399,8 +400,12 @@ fun WordPractice(state: WordUiState, vm: WordDictationViewModel) {
                 modifier = Modifier.padding(top = 10.dp),
             )
 
-            Box(Modifier.weight(1f).fillMaxSize(), contentAlignment = Alignment.Center) {
-                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+            BoxWithConstraints(Modifier.weight(1f).fillMaxSize(), contentAlignment = Alignment.Center) {
+                val shiftUp = -maxHeight * 0.25f
+                Column(
+                    Modifier.offset(y = shiftUp),
+                    horizontalAlignment = Alignment.CenterHorizontally,
+                ) {
                     if (!state.isListeningMode && state.showMeaning && !state.trans.isNullOrEmpty()) {
                         Text(state.trans!!, color = c.soft, fontFamily = mono, fontSize = 20.sp)
                         Spacer(Modifier.height(10.dp))
