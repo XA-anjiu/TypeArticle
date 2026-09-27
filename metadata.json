@@ -1,0 +1,6 @@
+{
+  "name": "TypeArticle",
+  "description": "平板文章跟打与单词默写框架，支持本地文章与词库离线跟打、实体键盘交互、断点续练与音频播放。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
