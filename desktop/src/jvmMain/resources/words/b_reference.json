@@ -1,0 +1,2886 @@
+[
+ {
+  "word": "admire",
+  "phonetic0": "/ədˈmaɪər/",
+  "trans": "v. 欣赏"
+ },
+ {
+  "word": "advocacy",
+  "phonetic0": "/ˈædvəkəsi/",
+  "trans": "倡议"
+ },
+ {
+  "word": "aesthetic",
+  "phonetic0": "/esˈθetɪk/",
+  "trans": "a. 美学的"
+ },
+ {
+  "word": "afforestation",
+  "phonetic0": "/əˌfɔːrɪˈsteɪʃn/",
+  "trans": "n. 植树造林"
+ },
+ {
+  "word": "agenda",
+  "phonetic0": "/əˈdʒendə/",
+  "trans": "n.日程表"
+ },
+ {
+  "word": "aggressive",
+  "phonetic0": "/əˈɡresɪv/",
+  "trans": "a.积极进取的;好斗的"
+ },
+ {
+  "word": "algorithm",
+  "phonetic0": "/ˈælɡərɪðəm/",
+  "trans": "n. 算法"
+ },
+ {
+  "word": "ambition",
+  "phonetic0": "/æmˈbɪʃ(ə)n/",
+  "trans": "n.理想,抱负"
+ },
+ {
+  "word": "amusement",
+  "phonetic0": "/əˈmjuːzmənt/",
+  "trans": "n.娱乐活动"
+ },
+ {
+  "word": "anti-piracy",
+  "phonetic0": "/ˈænti ˈpaɪrəsi/",
+  "trans": "n. 反盗版"
+ },
+ {
+  "word": "around",
+  "phonetic0": "/əˈraʊnd/",
+  "trans": "ad. 大约"
+ },
+ {
+  "word": "attack",
+  "phonetic0": "/əˈtæk/",
+  "trans": "袭击"
+ },
+ {
+  "word": "attain",
+  "phonetic0": "/əˈteɪn/",
+  "trans": "v. 获得,实现"
+ },
+ {
+  "word": "attendee",
+  "phonetic0": "/əˌtenˈdiː/",
+  "trans": "n. 出席者,参会人"
+ },
+ {
+  "word": "automate",
+  "phonetic0": "/ˈɔːtəmeɪt/",
+  "trans": "v. 使自动化"
+ },
+ {
+  "word": "bar",
+  "phonetic0": "/bɑːr/",
+  "trans": "条形图"
+ },
+ {
+  "word": "barely",
+  "phonetic0": "/ˈberli/",
+  "trans": "ad.几乎不"
+ },
+ {
+  "word": "bargain",
+  "phonetic0": "/ˈbɑːrɡən/",
+  "trans": "n. 减价品,便宜货"
+ },
+ {
+  "word": "biodiversity",
+  "phonetic0": "/ˌbaɪoʊdaɪˈvɜːrsəti/",
+  "trans": "n.生物多样性"
+ },
+ {
+  "word": "block",
+  "phonetic0": "/blɑːk/",
+  "trans": "v. 阻碍"
+ },
+ {
+  "word": "blueprint",
+  "phonetic0": "/ˈbluːprɪnt/",
+  "trans": "n.蓝图,方案"
+ },
+ {
+  "word": "brand",
+  "phonetic0": "/brænd/",
+  "trans": "n. 品牌"
+ },
+ {
+  "word": "brilliant",
+  "phonetic0": "/ˈbrɪliənt/",
+  "trans": "a.巧妙的,使人印象深的;辉煌的"
+ },
+ {
+  "word": "careless",
+  "phonetic0": "/ˈkerləs/",
+  "trans": "a. 粗心大意的,疏忽的"
+ },
+ {
+  "word": "celebration",
+  "phonetic0": "/ˌseləˈbreɪʃ(ə)n/",
+  "trans": "n. 庆典"
+ },
+ {
+  "word": "ceremony",
+  "phonetic0": "/ˈserəmoʊni/",
+  "trans": "n.仪式,典礼"
+ },
+ {
+  "word": "champion",
+  "phonetic0": "/ˈtʃæmpiən/",
+  "trans": "n.冠军"
+ },
+ {
+  "word": "cherish",
+  "phonetic0": "/ˈtʃerɪʃ/",
+  "trans": "v. 珍视,珍爱"
+ },
+ {
+  "word": "civil",
+  "phonetic0": "/ˈsɪv(ə)l/",
+  "trans": "公务员"
+ },
+ {
+  "word": "classification",
+  "phonetic0": "/ˌklæsɪfɪˈkeɪʃ(ə)n/",
+  "trans": "垃圾分类"
+ },
+ {
+  "word": "comfort",
+  "phonetic0": "/ˈkʌmfərt/",
+  "trans": "v. 安慰,抚慰 n. 舒服,舒适;安慰"
+ },
+ {
+  "word": "common",
+  "phonetic0": "/ˈkɑːmən/",
+  "trans": "a. 常见的"
+ },
+ {
+  "word": "companionship",
+  "phonetic0": "/kəmˈpænjənʃɪp/",
+  "trans": "n. 情谊,友谊"
+ },
+ {
+  "word": "compensation",
+  "phonetic0": "/ˌkɑːmpenˈseɪʃ(ə)n/",
+  "trans": "n. 赔偿金,补偿金;补偿"
+ },
+ {
+  "word": "competent",
+  "phonetic0": "/ˈkɑːmpɪtənt/",
+  "trans": "a.胜任的"
+ },
+ {
+  "word": "composed",
+  "phonetic0": "/kəmˈpoʊzd/",
+  "trans": "a. 镇定的"
+ },
+ {
+  "word": "comprehend",
+  "phonetic0": "/ˌkɑːmprɪˈhend/",
+  "trans": "v.理解"
+ },
+ {
+  "word": "comprise",
+  "phonetic0": "/kəmˈpraɪz/",
+  "trans": "v.组成;构成"
+ },
+ {
+  "word": "confer",
+  "phonetic0": "/kənˈfɜːr/",
+  "trans": "v.授予;商讨,交换意见"
+ },
+ {
+  "word": "congestion",
+  "phonetic0": "/kənˈdʒestʃən/",
+  "trans": "交通堵塞"
+ },
+ {
+  "word": "conservative",
+  "phonetic0": "/kənˈsɜːrvətɪv/",
+  "trans": "a. 保守的,守旧的"
+ },
+ {
+  "word": "consolidate",
+  "phonetic0": "/kənˈsɑːlɪdeɪt/",
+  "trans": "v. 巩固,加强"
+ },
+ {
+  "word": "constitute",
+  "phonetic0": "/ˈkɑːnstɪtuːt/",
+  "trans": "占比,构成"
+ },
+ {
+  "word": "contributor",
+  "phonetic0": "/kənˈtrɪbjətər/",
+  "trans": "n. 促成(不良后果的)因素"
+ },
+ {
+  "word": "corresponding",
+  "phonetic0": "/ˌkɔːrəˈspɑːndɪŋ/",
+  "trans": "a.相应的"
+ },
+ {
+  "word": "cost-effective",
+  "phonetic0": "/ˌkɔːst ɪˈfektɪv/",
+  "trans": "a. 划算的,性价比高的"
+ },
+ {
+  "word": "courageous",
+  "phonetic0": "/kəˈreɪdʒəs/",
+  "trans": "a.勇敢的"
+ },
+ {
+  "word": "courteous",
+  "phonetic0": "/ˈkɜːrtiəs/",
+  "trans": "a.有礼貌的,谦恭的"
+ },
+ {
+  "word": "criticize",
+  "phonetic0": "/ˈkrɪtɪsaɪz/",
+  "trans": "v. 批评;指责"
+ },
+ {
+  "word": "crowd",
+  "phonetic0": "/kraʊd/",
+  "trans": "一群"
+ },
+ {
+  "word": "cyber-bullying",
+  "phonetic0": "/ˈsaɪbər ˈbʊliɪŋ/",
+  "trans": "n. 网络霸凌"
+ },
+ {
+  "word": "declare",
+  "phonetic0": "/dɪˈkler/",
+  "trans": "v. 宣称"
+ },
+ {
+  "word": "dedicated",
+  "phonetic0": "/ˈdedɪkeɪtɪd/",
+  "trans": "a. 献身的,投入的"
+ },
+ {
+  "word": "dedication",
+  "phonetic0": "/ˌdedɪˈkeɪʃ(ə)n/",
+  "trans": "n.奉献"
+ },
+ {
+  "word": "deficiency",
+  "phonetic0": "/dɪˈfɪʃ(ə)nsi/",
+  "trans": "n. 缺点"
+ },
+ {
+  "word": "deforestation",
+  "phonetic0": "/ˌdiːˌfɔːrɪˈsteɪʃ(ə)n/",
+  "trans": "n.采伐森林"
+ },
+ {
+  "word": "delegate",
+  "phonetic0": "/ˈdelɪɡət/",
+  "trans": "n. 代表"
+ },
+ {
+  "word": "delightful",
+  "phonetic0": "/dɪˈlaɪtf(ə)l/",
+  "trans": "a. 怡人的"
+ },
+ {
+  "word": "delivery",
+  "phonetic0": "/dɪˈlɪvəri/",
+  "trans": "n.递送,运送"
+ },
+ {
+  "word": "deplete",
+  "phonetic0": "/dɪˈpliːt/",
+  "trans": "v. 用光、耗尽"
+ },
+ {
+  "word": "depressed",
+  "phonetic0": "/dɪˈprest/",
+  "trans": "a. 抑郁的,沮丧的"
+ },
+ {
+  "word": "deputy",
+  "phonetic0": "/ˈdepjuti/",
+  "trans": "n.代理人,代表"
+ },
+ {
+  "word": "desert",
+  "phonetic0": "/ˈdezərt/",
+  "trans": "v.抛弃"
+ },
+ {
+  "word": "desertification",
+  "phonetic0": "/dɪˌzɜːrtɪfɪˈkeɪʃ(ə)n/",
+  "trans": "n.沙漠化"
+ },
+ {
+  "word": "destination",
+  "phonetic0": "/ˌdestɪˈneɪʃ(ə)n/",
+  "trans": "n.目的地"
+ },
+ {
+  "word": "destroy",
+  "phonetic0": "/dɪˈstrɔɪ/",
+  "trans": "v. 破坏,毁灭"
+ },
+ {
+  "word": "devastating",
+  "phonetic0": "/ˈdevəsteɪtɪŋ/",
+  "trans": "a. 毁灭性的"
+ },
+ {
+  "word": "devotion",
+  "phonetic0": "/dɪˈvoʊʃ(ə)n/",
+  "trans": "对......尽职尽责;致力于"
+ },
+ {
+  "word": "diagnose",
+  "phonetic0": "/ˌdaɪəɡˈnoʊs/",
+  "trans": "v. 诊断(疾病)"
+ },
+ {
+  "word": "dilemma",
+  "phonetic0": "/dɪˈlemə/",
+  "trans": "n. 困境"
+ },
+ {
+  "word": "diligent",
+  "phonetic0": "/ˈdɪlɪdʒənt/",
+  "trans": "a. 勤奋的,勤勉的"
+ },
+ {
+  "word": "disagree",
+  "phonetic0": "/ˌdɪsəˈɡriː/",
+  "trans": "v. 同意/不同意"
+ },
+ {
+  "word": "disappoint",
+  "phonetic0": "/ˌdɪsəˈpɔɪnt/",
+  "trans": "v. 使失望"
+ },
+ {
+  "word": "disappointment",
+  "phonetic0": "/ˌdɪsəˈpɔɪntmənt/",
+  "trans": "n. 失望,沮丧"
+ },
+ {
+  "word": "disastrous",
+  "phonetic0": "/dɪˈzæstrəs/",
+  "trans": "a. 灾难性的"
+ },
+ {
+  "word": "discard",
+  "phonetic0": "/dɪˈskɑːrd/",
+  "trans": "v. 抛弃,丢弃"
+ },
+ {
+  "word": "discontent",
+  "phonetic0": "/ˌdɪskənˈtent/",
+  "trans": "n. 不满 a. 不满的,不愉快的"
+ },
+ {
+  "word": "discount",
+  "phonetic0": "/ˈdɪskaʊnt/",
+  "trans": "n.折扣"
+ },
+ {
+  "word": "dislike",
+  "phonetic0": "/dɪsˈlaɪk/",
+  "trans": "v. 不喜欢"
+ },
+ {
+  "word": "disposable",
+  "phonetic0": "/dɪˈspoʊzəb(ə)l/",
+  "trans": "a. 用后丢弃的;一次性使用的"
+ },
+ {
+  "word": "disregard",
+  "phonetic0": "/ˌdɪsrɪˈɡɑːrd/",
+  "trans": "v.对......置之不理"
+ },
+ {
+  "word": "dissatisfied",
+  "phonetic0": "/dɪsˈsætɪsfaɪdˌdɪˈsætɪsfaɪd/",
+  "trans": "a. 不满意的;不高兴的"
+ },
+ {
+  "word": "distinctly",
+  "phonetic0": "/dɪˈstɪŋktli/",
+  "trans": "ad. 明显地"
+ },
+ {
+  "word": "disturb",
+  "phonetic0": "/dɪˈstɜːrb/",
+  "trans": "v. 打扰,妨碍"
+ },
+ {
+  "word": "down-to-earth",
+  "phonetic0": "/ˌdaʊn tu ˈɜːrθ/",
+  "trans": "a.实际的;现实的"
+ },
+ {
+  "word": "download",
+  "phonetic0": "/ˌdaʊnˈloʊd/",
+  "trans": "v. 下载"
+ },
+ {
+  "word": "drive",
+  "phonetic0": "/draɪv/",
+  "trans": "扩大内需"
+ },
+ {
+  "word": "driverless",
+  "phonetic0": "/ˈdraɪvərləs/",
+  "trans": "无人/自动驾驶汽车"
+ },
+ {
+  "word": "drought",
+  "phonetic0": "/draʊt/",
+  "trans": "n. 干旱"
+ },
+ {
+  "word": "dynasty",
+  "phonetic0": "/ˈdaɪnəsti/",
+  "trans": "n. 王朝,朝代"
+ },
+ {
+  "word": "e-commerce",
+  "phonetic0": "/ˈiː kɑːmɜːrs/",
+  "trans": "n. 电子商务"
+ },
+ {
+  "word": "ease",
+  "phonetic0": "/iːz/",
+  "trans": "v. 减轻"
+ },
+ {
+  "word": "ecosystem",
+  "phonetic0": "/ˈiːkoʊsɪstəm/",
+  "trans": "n.生态系统"
+ },
+ {
+  "word": "embody",
+  "phonetic0": "/ɪmˈbɑːdi/",
+  "trans": "v. 体现,代表(思想或品质)"
+ },
+ {
+  "word": "embrace",
+  "phonetic0": "/ɪmˈbreɪs/",
+  "trans": "v. 拥抱;欣然接受"
+ },
+ {
+  "word": "emergency",
+  "phonetic0": "/ɪˈmɜːrdʒənsi/",
+  "trans": "n.紧急情况;突发事件"
+ },
+ {
+  "word": "endanger",
+  "phonetic0": "/ɪnˈdeɪndʒər/",
+  "trans": "v. 危及"
+ },
+ {
+  "word": "endurance",
+  "phonetic0": "/ɪnˈdʊrəns/",
+  "trans": "n. 坚持"
+ },
+ {
+  "word": "energetic",
+  "phonetic0": "/ˌenərˈdʒetɪk/",
+  "trans": "a. 有活力的"
+ },
+ {
+  "word": "enter",
+  "phonetic0": "/ˈentər/",
+  "trans": "v. 进入;开始从事"
+ },
+ {
+  "word": "enthusiasm",
+  "phonetic0": "/ɪnˈθuːziæzəm/",
+  "trans": "n.热情,热忱"
+ },
+ {
+  "word": "equip",
+  "phonetic0": "/ɪˈkwɪp/",
+  "trans": "提高自己的专业知识和技能水平"
+ },
+ {
+  "word": "equipment",
+  "phonetic0": "/ɪˈkwɪpmənt/",
+  "trans": "健身中心/器材"
+ },
+ {
+  "word": "error",
+  "phonetic0": "/ˈerər/",
+  "trans": "n. 错误,差错"
+ },
+ {
+  "word": "escalate",
+  "phonetic0": "/ˈeskəleɪt/",
+  "trans": "v. 加剧,升级"
+ },
+ {
+  "word": "escape",
+  "phonetic0": "/ɪˈskeɪp/",
+  "trans": "逃避责任"
+ },
+ {
+  "word": "evidently",
+  "phonetic0": "/ˈevɪdəntli/",
+  "trans": "ad. 明显地"
+ },
+ {
+  "word": "exacerbate",
+  "phonetic0": "/ɪɡˈzæsərbeɪt/",
+  "trans": "v. 使加剧,使恶化"
+ },
+ {
+  "word": "exaggerated",
+  "phonetic0": "/ɪɡˈzædʒəreɪtɪd/",
+  "trans": "a. 夸张的"
+ },
+ {
+  "word": "excellence",
+  "phonetic0": "/ˈeksələns/",
+  "trans": "精益求精"
+ },
+ {
+  "word": "exhaust",
+  "phonetic0": "/ɪɡˈzɔːst/",
+  "trans": "v. 用光、耗尽"
+ },
+ {
+  "word": "exhibition",
+  "phonetic0": "/ˌeksɪˈbɪʃ(ə)n/",
+  "trans": "n. 展览"
+ },
+ {
+  "word": "explicitly",
+  "phonetic0": "/ɪkˈsplɪsɪtli/",
+  "trans": "ad.清楚明确地"
+ },
+ {
+  "word": "extinction",
+  "phonetic0": "/ɪkˈstɪŋkʃ(ə)n/",
+  "trans": "物种的灭绝"
+ },
+ {
+  "word": "facilitate",
+  "phonetic0": "/fəˈsɪlɪteɪt/",
+  "trans": "v. 促进,促使"
+ },
+ {
+  "word": "fatal",
+  "phonetic0": "/ˈfeɪt(ə)l/",
+  "trans": "a. 致命的"
+ },
+ {
+  "word": "fault",
+  "phonetic0": "/fɔːlt/",
+  "trans": "n. 错误,过错"
+ },
+ {
+  "word": "fierce",
+  "phonetic0": "/fɪrs/",
+  "trans": "竞争激烈"
+ },
+ {
+  "word": "firmly",
+  "phonetic0": "/ˈfɜːrmli/",
+  "trans": "ad. 坚决地,坚定地"
+ },
+ {
+  "word": "flawless",
+  "phonetic0": "/ˈflɔːləs/",
+  "trans": "a. 完美的,无瑕的"
+ },
+ {
+  "word": "forgive",
+  "phonetic0": "/fərˈɡɪv/",
+  "trans": "v. 原谅"
+ },
+ {
+  "word": "forgiveness",
+  "phonetic0": "/fərˈɡɪvnəs/",
+  "trans": "n. 原谅,宽恕"
+ },
+ {
+  "word": "fraud",
+  "phonetic0": "/frɔːd/",
+  "trans": "网络犯罪/诈骗"
+ },
+ {
+  "word": "frustrated",
+  "phonetic0": "/ˈfrʌstreɪtɪd/",
+  "trans": "a. 沮丧的"
+ },
+ {
+  "word": "fulfilled",
+  "phonetic0": "/fʊlˈfɪld/",
+  "trans": "a.感到满足的"
+ },
+ {
+  "word": "gaze",
+  "phonetic0": "/ɡeɪz/",
+  "trans": "v. 盯着看"
+ },
+ {
+  "word": "generosity",
+  "phonetic0": "/ˌdʒenəˈrɑːsəti/",
+  "trans": "n. 慷慨,大方"
+ },
+ {
+  "word": "get-together",
+  "phonetic0": "/ˈɡet təɡeðər/",
+  "trans": "n. 聚会,联欢会"
+ },
+ {
+  "word": "grant",
+  "phonetic0": "/ɡrænt/",
+  "trans": "v.同意,准予"
+ },
+ {
+  "word": "graphically",
+  "phonetic0": "/ˈɡræfɪkli/",
+  "trans": "ad.使用图表地"
+ },
+ {
+  "word": "grassroots",
+  "phonetic0": "/ˈɡræsˈrʊts/",
+  "trans": "n. 基层,草根"
+ },
+ {
+  "word": "hacker",
+  "phonetic0": "/ˈhækər/",
+  "trans": "n. 黑客"
+ },
+ {
+  "word": "hardworking",
+  "phonetic0": "/ˌhɑːrdˈwɜːrkɪŋ/",
+  "trans": "a.努力工作的;不辞辛劳的"
+ },
+ {
+  "word": "high-priced",
+  "phonetic0": "/ˌhaɪ ˈpraɪst/",
+  "trans": "a. 高价的,昂贵的"
+ },
+ {
+  "word": "high-speed",
+  "phonetic0": "/ˌhaɪ ˈspiːd/",
+  "trans": "高铁"
+ },
+ {
+  "word": "highlight",
+  "phonetic0": "/ˈhaɪlaɪt/",
+  "trans": "v. 强调"
+ },
+ {
+  "word": "highly-integrated",
+  "phonetic0": null,
+  "trans": "a. 高度融合的"
+ },
+ {
+  "word": "hobby",
+  "phonetic0": "/ˈhɑːbi/",
+  "trans": "n. 爱好"
+ },
+ {
+  "word": "honesty",
+  "phonetic0": "/ˈɑːnəsti/",
+  "trans": "n.诚实正直"
+ },
+ {
+  "word": "honor",
+  "phonetic0": "/ˈɑːnər/",
+  "trans": "n. 荣幸"
+ },
+ {
+  "word": "honorable",
+  "phonetic0": "/ˈɑːnərəb(ə)l/",
+  "trans": "a.光荣的"
+ },
+ {
+  "word": "hopefully",
+  "phonetic0": "/ˈhoʊpfəli/",
+  "trans": "可以预见的是/毫无疑问/希望"
+ },
+ {
+  "word": "hospitality",
+  "phonetic0": "/ˌhɑːspɪˈtæləti/",
+  "trans": "n. 殷勤款待,好客"
+ },
+ {
+  "word": "host",
+  "phonetic0": "/hoʊst/",
+  "trans": "n. 主人;寄主,宿主"
+ },
+ {
+  "word": "humorous",
+  "phonetic0": "/ˈhjuːmərəs/",
+  "trans": "a.幽默的"
+ },
+ {
+  "word": "hurt",
+  "phonetic0": "/hɜːrt/",
+  "trans": "v. 伤害"
+ },
+ {
+  "word": "illusion",
+  "phonetic0": "/ɪˈluːʒ(ə)n/",
+  "trans": "n. 幻想"
+ },
+ {
+  "word": "image",
+  "phonetic0": "/ˈɪmɪdʒ/",
+  "trans": "n. 图画,绘画"
+ },
+ {
+  "word": "imperative",
+  "phonetic0": "/ɪmˈperətɪv/",
+  "trans": "a. 重要紧急的,迫切的"
+ },
+ {
+  "word": "infect",
+  "phonetic0": "/ɪnˈfekt/",
+  "trans": "v. 传染,使感染"
+ },
+ {
+  "word": "inflation",
+  "phonetic0": "/ɪnˈfleɪʃ(ə)n/",
+  "trans": "n. 通货膨胀"
+ },
+ {
+  "word": "infrastructure",
+  "phonetic0": "/ˈɪnfrəstrʌktʃər/",
+  "trans": "n. 基础设施"
+ },
+ {
+  "word": "inherit",
+  "phonetic0": "/ɪnˈherɪt/",
+  "trans": "v. 继承"
+ },
+ {
+  "word": "instructive",
+  "phonetic0": "/ɪnˈstrʌktɪv/",
+  "trans": "a.有教育意义的"
+ },
+ {
+  "word": "integrity",
+  "phonetic0": "/ɪnˈteɡrəti/",
+  "trans": "n.诚实正直"
+ },
+ {
+  "word": "intellect",
+  "phonetic0": "/ˈɪntəlekt/",
+  "trans": "n.智力,思维能力"
+ },
+ {
+  "word": "interactive",
+  "phonetic0": "/ˌɪntərˈæktɪv/",
+  "trans": "a. 人机交互的"
+ },
+ {
+  "word": "invaluable",
+  "phonetic0": "/ɪnˈvæljuəb(ə)l/",
+  "trans": "a.极有用的;极宝贵的"
+ },
+ {
+  "word": "invasion",
+  "phonetic0": "/ɪnˈveɪʒ(ə)n/",
+  "trans": "n. 入侵"
+ },
+ {
+  "word": "ironically",
+  "phonetic0": "/aɪˈrɑːnɪkli/",
+  "trans": "ad. 讽刺地"
+ },
+ {
+  "word": "joint",
+  "phonetic0": "/dʒɔɪnt/",
+  "trans": "共同努力,万众一心"
+ },
+ {
+  "word": "jump",
+  "phonetic0": "/dʒʌmp/",
+  "trans": "大幅上升,骤增"
+ },
+ {
+  "word": "justified",
+  "phonetic0": "/ˈdʒʌstɪfaɪd/",
+  "trans": "a.合理的"
+ },
+ {
+  "word": "juvenile",
+  "phonetic0": "/ˈdʒuːvənl; ˈdʒuːvənaɪl/",
+  "trans": "n. 青少年"
+ },
+ {
+  "word": "kind-hearted",
+  "phonetic0": "/ˌkaɪnd ˈhɑːrtɪd/",
+  "trans": "a. 好心的,仁慈的"
+ },
+ {
+  "word": "knowledgeable",
+  "phonetic0": "/ˈnɑːlɪdʒəbl/",
+  "trans": "a.有见识的,知识渊博的"
+ },
+ {
+  "word": "landfill",
+  "phonetic0": "/ˈlændfɪl/",
+  "trans": "n. 垃圾填埋场"
+ },
+ {
+  "word": "landslide",
+  "phonetic0": "/ˈlændslaɪd/",
+  "trans": "n.山体滑坡"
+ },
+ {
+  "word": "laziness",
+  "phonetic0": "/ˈleɪzinəs/",
+  "trans": "n. 懒惰"
+ },
+ {
+  "word": "leap",
+  "phonetic0": "/liːp/",
+  "trans": "v.激增"
+ },
+ {
+  "word": "lecture",
+  "phonetic0": "/ˈlektʃər/",
+  "trans": "n. 讲座,演讲"
+ },
+ {
+  "word": "legislation",
+  "phonetic0": "/ˌledʒɪsˈleɪʃ(ə)n/",
+  "trans": "n. 立法,法规"
+ },
+ {
+  "word": "lifelong",
+  "phonetic0": "/ˈlaɪflɔːŋ/",
+  "trans": "a. 终身的,毕生的"
+ },
+ {
+  "word": "litter",
+  "phonetic0": "/ˈlɪtər/",
+  "trans": "乱扔/倾倒垃圾"
+ },
+ {
+  "word": "livelihood",
+  "phonetic0": "/ˈlaɪvlihʊd/",
+  "trans": "n.生计"
+ },
+ {
+  "word": "malicious",
+  "phonetic0": "/məˈlɪʃəs/",
+  "trans": "a. 怀有恶意的,恶毒的"
+ },
+ {
+  "word": "manager",
+  "phonetic0": "/ˈmænɪdʒər/",
+  "trans": "n. 经理,管理者"
+ },
+ {
+  "word": "master",
+  "phonetic0": "/ˈmæstər/",
+  "trans": "v. 精通,掌握 n. 大师,能手"
+ },
+ {
+  "word": "master's",
+  "phonetic0": null,
+  "trans": "获得学士/硕士/博士学位"
+ },
+ {
+  "word": "masterpiece",
+  "phonetic0": "/ˈmæstərpiːs/",
+  "trans": "n. 代表作,杰作"
+ },
+ {
+  "word": "mastery",
+  "phonetic0": "/ˈmæstəri/",
+  "trans": "n.精通,熟练掌握;控制"
+ },
+ {
+  "word": "medal",
+  "phonetic0": "/ˈmed(ə)l/",
+  "trans": "n.奖牌,勋章"
+ },
+ {
+  "word": "meeting",
+  "phonetic0": "/ˈmiːtɪŋ/",
+  "trans": "n. 会议"
+ },
+ {
+  "word": "membership",
+  "phonetic0": "/ˈmembərʃɪp/",
+  "trans": "n.会员资格"
+ },
+ {
+  "word": "merit",
+  "phonetic0": "/ˈmerɪt/",
+  "trans": "n. 优点"
+ },
+ {
+  "word": "mirror",
+  "phonetic0": "/ˈmɪrər/",
+  "trans": "v. 阐明/传达/体现/反映/揭示/暗指/暗示/暗示"
+ },
+ {
+  "word": "misunderstanding",
+  "phonetic0": "/ˌmɪsʌndərˈstændɪŋ/",
+  "trans": "n. 误解"
+ },
+ {
+  "word": "moderately",
+  "phonetic0": "/ˈmɑːdərətli/",
+  "trans": "a./ad. 小幅度"
+ },
+ {
+  "word": "modesty",
+  "phonetic0": "/ˈmɑːdəsti/",
+  "trans": "n.谦虚"
+ },
+ {
+  "word": "negotiate",
+  "phonetic0": "/nɪˈɡoʊʃieɪt/",
+  "trans": "v.协商"
+ },
+ {
+  "word": "netizen",
+  "phonetic0": "/ˈnetɪzn/",
+  "trans": "网民"
+ },
+ {
+  "word": "newspaper",
+  "phonetic0": "/ˈnuːzpeɪpər/",
+  "trans": "n. 报纸,报"
+ },
+ {
+  "word": "nursing",
+  "phonetic0": "/ˈnɜːrsɪŋ/",
+  "trans": "养老院"
+ },
+ {
+  "word": "offend",
+  "phonetic0": "/əˈfend/",
+  "trans": "v. 冒犯"
+ },
+ {
+  "word": "old-fashioned",
+  "phonetic0": "/ˌoʊld ˈfæʃ(ə)nd/",
+  "trans": "a. 保守的,守旧的"
+ },
+ {
+  "word": "originally",
+  "phonetic0": "/əˈrɪdʒənəli/",
+  "trans": "ad.起初"
+ },
+ {
+  "word": "outbreak",
+  "phonetic0": "/ˈaʊtbreɪk/",
+  "trans": "n. 爆发"
+ },
+ {
+  "word": "outspoken",
+  "phonetic0": "/aʊtˈspoʊkən/",
+  "trans": "a. 坦率的"
+ },
+ {
+  "word": "overfishing",
+  "phonetic0": "/ˌoʊvərˈfɪʃɪŋ/",
+  "trans": "n.过度捕捞"
+ },
+ {
+  "word": "overwork",
+  "phonetic0": "/ˌoʊvərˈwɜːrk/",
+  "trans": "n. 过度劳累 v.(使)过度劳累"
+ },
+ {
+  "word": "pack",
+  "phonetic0": "/pæk/",
+  "trans": "一群"
+ },
+ {
+  "word": "package",
+  "phonetic0": "/ˈpækɪdʒ/",
+  "trans": "n. 快递,包裹"
+ },
+ {
+  "word": "packaging",
+  "phonetic0": "/ˈpækɪdʒɪŋ/",
+  "trans": "塑料吸管/编织袋/胶带/餐具/包装"
+ },
+ {
+  "word": "pandemic",
+  "phonetic0": "/pænˈdemɪk/",
+  "trans": "n. 流行病"
+ },
+ {
+  "word": "parcel",
+  "phonetic0": "/ˈpɑːrs(ə)l/",
+  "trans": "n. 快递,包裹"
+ },
+ {
+  "word": "particulars",
+  "phonetic0": "/pəˈtɪkjələz/",
+  "trans": "n.详细资料"
+ },
+ {
+  "word": "passionate",
+  "phonetic0": "/ˈpæʃənət/",
+  "trans": "a. 狂热的,热诚的"
+ },
+ {
+  "word": "patriotic",
+  "phonetic0": "/ˌpeɪtriˈɑːtɪk/",
+  "trans": "a. 爱国的"
+ },
+ {
+  "word": "periodically",
+  "phonetic0": "/ˌpɪriˈɑːdɪkli/",
+  "trans": "ad.周期性地"
+ },
+ {
+  "word": "permanently",
+  "phonetic0": "/ˈpɜːrmənəntli/",
+  "trans": "ad.长久地"
+ },
+ {
+  "word": "perseverance",
+  "phonetic0": "/ˌpɜːrsəˈvɪrəns/",
+  "trans": "n. 毅力,坚持不懈"
+ },
+ {
+  "word": "persistence",
+  "phonetic0": "/pərˈsɪstəns/",
+  "trans": "n. 坚持不懈"
+ },
+ {
+  "word": "persuasive",
+  "phonetic0": "/pərˈsweɪsɪv/",
+  "trans": "a.合理的"
+ },
+ {
+  "word": "philosophy",
+  "phonetic0": "/fəˈlɑːsəfi/",
+  "trans": "n. 哲学"
+ },
+ {
+  "word": "poll",
+  "phonetic0": "/poʊl/",
+  "trans": "n.民意调查"
+ },
+ {
+  "word": "pollutants",
+  "phonetic0": null,
+  "trans": "空气污染/污染物"
+ },
+ {
+  "word": "post",
+  "phonetic0": "/poʊst/",
+  "trans": "v. 公布;宣布 n. 工作,职位;岗位"
+ },
+ {
+  "word": "praise",
+  "phonetic0": "/preɪz/",
+  "trans": "v. 赞扬"
+ },
+ {
+  "word": "precisely",
+  "phonetic0": "/prɪˈsaɪsli/",
+  "trans": "ad.准确地"
+ },
+ {
+  "word": "predictably",
+  "phonetic0": "/prɪˈdɪktəbli/",
+  "trans": "可以预见的是/毫无疑问/希望"
+ },
+ {
+  "word": "predicted",
+  "phonetic0": "/prɪˈdɪktɪd/",
+  "trans": "预计......"
+ },
+ {
+  "word": "preliminary",
+  "phonetic0": "/prɪˈlɪmɪneri/",
+  "trans": "a.初步的"
+ },
+ {
+  "word": "presumably",
+  "phonetic0": "/prɪˈzuːməbli/",
+  "trans": "ad.可能地"
+ },
+ {
+  "word": "prevail",
+  "phonetic0": "/prɪˈveɪl/",
+  "trans": "v.普遍存在"
+ },
+ {
+  "word": "prize",
+  "phonetic0": "/praɪz/",
+  "trans": "n. 奖项,奖品"
+ },
+ {
+  "word": "prize-winner",
+  "phonetic0": null,
+  "trans": "n. 获奖者"
+ },
+ {
+  "word": "problem",
+  "phonetic0": "/ˈprɑːbləm/",
+  "trans": "n. 问题,难题"
+ },
+ {
+  "word": "problematic",
+  "phonetic0": "/ˌprɑːbləˈmætɪk/",
+  "trans": "a. 造成困难的,产生问题的"
+ },
+ {
+  "word": "procedure",
+  "phonetic0": "/prəˈsiːdʒər/",
+  "trans": "n.手续"
+ },
+ {
+  "word": "procrastination",
+  "phonetic0": "/prəˌkræstɪˈneɪʃn/",
+  "trans": "n. 拖延,拖延症"
+ },
+ {
+  "word": "professor",
+  "phonetic0": "/prəˈfesər/",
+  "trans": "n. 教授"
+ },
+ {
+  "word": "proficiency",
+  "phonetic0": "/prəˈfɪʃ(ə)nsi/",
+  "trans": "n.熟练;精通"
+ },
+ {
+  "word": "profit",
+  "phonetic0": "/ˈprɑːfɪt/",
+  "trans": "n. 利润"
+ },
+ {
+  "word": "profit-driven",
+  "phonetic0": null,
+  "trans": "a. 利益驱动的"
+ },
+ {
+  "word": "profound",
+  "phonetic0": "/prəˈfaʊnd/",
+  "trans": "a.深切的;深远的"
+ },
+ {
+  "word": "profoundly",
+  "phonetic0": "/prəˈfaʊndli/",
+  "trans": "ad.深刻地"
+ },
+ {
+  "word": "prosperous",
+  "phonetic0": "/ˈprɑːspərəs/",
+  "trans": "a. 繁荣的"
+ },
+ {
+  "word": "punctually",
+  "phonetic0": "/ˈpʌŋktʃuəli/",
+  "trans": "ad. 准时地,如期地"
+ },
+ {
+  "word": "qualification",
+  "phonetic0": "/ˌkwɑːlɪfɪˈkeɪʃ(ə)n/",
+  "trans": "n.资格"
+ },
+ {
+  "word": "quit",
+  "phonetic0": "/kwɪt/",
+  "trans": "v. 辞职"
+ },
+ {
+  "word": "rationally",
+  "phonetic0": "/ˈræʃnəli/",
+  "trans": "ad. 理性地"
+ },
+ {
+  "word": "re-employment",
+  "phonetic0": "/reɪ ɪmˈplɔɪmənt/",
+  "trans": "n. 再就业"
+ },
+ {
+  "word": "react",
+  "phonetic0": "/riˈækt/",
+  "trans": "反应态度截然不同"
+ },
+ {
+  "word": "rearrange",
+  "phonetic0": "/ˌriːəˈreɪndʒ/",
+  "trans": "v.重新安排"
+ },
+ {
+  "word": "rebuild",
+  "phonetic0": "/ˌriːˈbɪld/",
+  "trans": "重树信心"
+ },
+ {
+  "word": "reception",
+  "phonetic0": "/rɪˈsepʃ(ə)n/",
+  "trans": "n. 欢迎会,招待会"
+ },
+ {
+  "word": "regain",
+  "phonetic0": "/rɪˈɡeɪn/",
+  "trans": "重树信心"
+ },
+ {
+  "word": "remark",
+  "phonetic0": "/rɪˈmɑːrk/",
+  "trans": "v. 谈论,说起 n. 言论,评述"
+ },
+ {
+  "word": "remedy",
+  "phonetic0": "/ˈremədi/",
+  "trans": "v.纠正;改进"
+ },
+ {
+  "word": "repair",
+  "phonetic0": "/rɪˈper/",
+  "trans": "v. 修理,修补 n. 修理,补救"
+ },
+ {
+  "word": "reshape",
+  "phonetic0": "/ˌriːˈʃeɪp/",
+  "trans": "v. 重塑"
+ },
+ {
+  "word": "resign",
+  "phonetic0": "/rɪˈzaɪn/",
+  "trans": "v. 辞(职),放弃(工作或职位)"
+ },
+ {
+  "word": "resignation",
+  "phonetic0": "/ˌrezɪɡˈneɪʃ(ə)n/",
+  "trans": "n.辞职"
+ },
+ {
+  "word": "retail",
+  "phonetic0": "/ˈriːteɪl/",
+  "trans": "n. 零售"
+ },
+ {
+  "word": "revenue",
+  "phonetic0": "/ˈrevənuː/",
+  "trans": "n.(公司、组织或政府的)收入"
+ },
+ {
+  "word": "rude",
+  "phonetic0": "/ruːd/",
+  "trans": "a. 粗鲁的,无礼的"
+ },
+ {
+  "word": "safeguard",
+  "phonetic0": "/ˈseɪfɡɑːrd/",
+  "trans": "v. 保护,捍卫"
+ },
+ {
+  "word": "scheme",
+  "phonetic0": "/skiːm/",
+  "trans": "n.计划,方案"
+ },
+ {
+  "word": "score",
+  "phonetic0": "/skɔːr/",
+  "trans": "n. 得分,比分"
+ },
+ {
+  "word": "secretary",
+  "phonetic0": "/ˈsekrəteri/",
+  "trans": "n. 秘书"
+ },
+ {
+  "word": "see",
+  "phonetic0": "/siː/",
+  "trans": "v. 见证/经历"
+ },
+ {
+  "word": "selectively",
+  "phonetic0": "/sɪˈlektɪvli/",
+  "trans": "ad. 有选择地"
+ },
+ {
+  "word": "self-confidence",
+  "phonetic0": "/ˌself ˈkɑːnfɪdəns/",
+  "trans": "n.自信"
+ },
+ {
+  "word": "self-dependence",
+  "phonetic0": "/self dɪˈpendəns/",
+  "trans": "n. 自立"
+ },
+ {
+  "word": "self-discipline",
+  "phonetic0": "/ˌself ˈdɪsəplɪn/",
+  "trans": "n. 自律"
+ },
+ {
+  "word": "self-driving",
+  "phonetic0": "/ˌself ˈdraɪvɪŋ/",
+  "trans": "无人/自动驾驶汽车"
+ },
+ {
+  "word": "self-esteem",
+  "phonetic0": "/ˌself ɪˈstiːm/",
+  "trans": "n. 自尊"
+ },
+ {
+  "word": "self-motivated",
+  "phonetic0": "/ˌself ˈmoʊtɪveɪtɪd/",
+  "trans": "a. 有上进心的"
+ },
+ {
+  "word": "self-reliance",
+  "phonetic0": "/ˌself rɪˈlaɪəns/",
+  "trans": "n. 自立"
+ },
+ {
+  "word": "sensible",
+  "phonetic0": "/ˈsensəb(ə)l/",
+  "trans": "a.通情达理的"
+ },
+ {
+  "word": "session",
+  "phonetic0": "/ˈseʃ(ə)n/",
+  "trans": "n. 会议"
+ },
+ {
+  "word": "settle",
+  "phonetic0": "/ˈset(ə)l/",
+  "trans": "v. 解决"
+ },
+ {
+  "word": "shocking",
+  "phonetic0": "/ˈʃɑːkɪŋ/",
+  "trans": "a.令人震惊的"
+ },
+ {
+  "word": "short-sightedness",
+  "phonetic0": "/ˌʃɔːrt ˈsaɪtɪdnəs/",
+  "trans": "n. 近视"
+ },
+ {
+  "word": "showcase",
+  "phonetic0": "/ˈʃoʊkeɪs/",
+  "trans": "v. 展示,展现"
+ },
+ {
+  "word": "sincerity",
+  "phonetic0": "/sɪnˈserəti/",
+  "trans": "n. 真诚,真挚"
+ },
+ {
+  "word": "skyrocket",
+  "phonetic0": "/ˈskaɪrɑːkɪt/",
+  "trans": "v.激增"
+ },
+ {
+  "word": "smog",
+  "phonetic0": "/smɑːɡ/",
+  "trans": "n. 雾霾"
+ },
+ {
+  "word": "spirit",
+  "phonetic0": "/ˈspɪrɪt/",
+  "trans": "n.精神"
+ },
+ {
+  "word": "spoil",
+  "phonetic0": "/spɔɪl/",
+  "trans": "v. 破坏;溺爱,娇惯"
+ },
+ {
+  "word": "sponsor",
+  "phonetic0": "/ˈspɑːnsər/",
+  "trans": "n. 赞助者,赞助商"
+ },
+ {
+  "word": "standpoint",
+  "phonetic0": "/ˈstændpɔɪnt/",
+  "trans": "观点"
+ },
+ {
+  "word": "stock",
+  "phonetic0": "/stɑːk/",
+  "trans": "n. 股票"
+ },
+ {
+  "word": "stretch",
+  "phonetic0": "/stretʃ/",
+  "trans": "v. 绵延,延伸"
+ },
+ {
+  "word": "striking",
+  "phonetic0": "/ˈstraɪkɪŋ/",
+  "trans": "a.显著的"
+ },
+ {
+  "word": "strikingly",
+  "phonetic0": "/ˈstraɪkɪŋli/",
+  "trans": "ad. 明显地"
+ },
+ {
+  "word": "surpass",
+  "phonetic0": "/sərˈpæs/",
+  "trans": "v. 超过"
+ },
+ {
+  "word": "symptom",
+  "phonetic0": "/ˈsɪmptəm/",
+  "trans": "n. 症状"
+ },
+ {
+  "word": "teamwork",
+  "phonetic0": "/ˈtiːmwɜːrk/",
+  "trans": "n. 团队合作"
+ },
+ {
+  "word": "temporarily",
+  "phonetic0": "/ˌtempəˈrerəli/",
+  "trans": "ad.临时地"
+ },
+ {
+  "word": "test",
+  "phonetic0": "/test/",
+  "trans": "v. 测试,考查 n. 考试,测试"
+ },
+ {
+  "word": "theory",
+  "phonetic0": "/ˈθiːəri/",
+  "trans": "n.学说,理论"
+ },
+ {
+  "word": "therapy",
+  "phonetic0": "/ˈθerəpi/",
+  "trans": "n. 治疗,疗法"
+ },
+ {
+  "word": "thirst",
+  "phonetic0": "/θɜːrst/",
+  "trans": "对知识的渴求"
+ },
+ {
+  "word": "thought-provoking",
+  "phonetic0": "/ˈθɔːt prəvoʊkɪŋ/",
+  "trans": "a. 发人深省的"
+ },
+ {
+  "word": "thoughtful",
+  "phonetic0": "/ˈθɔːtf(ə)l/",
+  "trans": "a. 体贴的"
+ },
+ {
+  "word": "thoughtless",
+  "phonetic0": "/ˈθɔːtləs/",
+  "trans": "a. 轻率的"
+ },
+ {
+  "word": "throwaway",
+  "phonetic0": "/ˈθroʊəweɪ/",
+  "trans": "a. 用后丢弃的;一次性使用的"
+ },
+ {
+  "word": "ties",
+  "phonetic0": "/taɪz/",
+  "trans": "增强家庭纽带"
+ },
+ {
+  "word": "tolerant",
+  "phonetic0": "/ˈtɑːlərənt/",
+  "trans": "a. 宽容的"
+ },
+ {
+  "word": "tone",
+  "phonetic0": "/toʊn/",
+  "trans": "n.语气,语调"
+ },
+ {
+  "word": "transaction",
+  "phonetic0": "/trænˈzækʃ(ə)n/",
+  "trans": "n. 交易"
+ },
+ {
+  "word": "treasure",
+  "phonetic0": "/ˈtreʒər/",
+  "trans": "n. 财富,珍品"
+ },
+ {
+  "word": "trouble",
+  "phonetic0": "/ˈtrʌb(ə)l/",
+  "trans": "故障"
+ },
+ {
+  "word": "uncomfortable",
+  "phonetic0": "/ʌnˈkʌmftəb(ə)l/",
+  "trans": "a. 身体不适的,感到不舒服的"
+ },
+ {
+  "word": "underdeveloped",
+  "phonetic0": "/ˌʌndərdɪˈveləpt/",
+  "trans": "a.欠发达的"
+ },
+ {
+  "word": "underline",
+  "phonetic0": "/ˌʌndərˈlaɪn/",
+  "trans": "v. 强调"
+ },
+ {
+  "word": "underscore",
+  "phonetic0": "/ˌʌndərˈskɔːr/",
+  "trans": "旨在"
+ },
+ {
+  "word": "understaffed",
+  "phonetic0": "/ˌʌndərˈstæft/",
+  "trans": "a. 人手不足"
+ },
+ {
+  "word": "undertake",
+  "phonetic0": "/ˌʌndərˈteɪk/",
+  "trans": "v. 承担,从事"
+ },
+ {
+  "word": "unforgettable",
+  "phonetic0": "/ˌʌnfərˈɡetəbl/",
+  "trans": "a.令人难忘的"
+ },
+ {
+  "word": "unite",
+  "phonetic0": "/juˈnaɪt/",
+  "trans": "v. 统一"
+ },
+ {
+  "word": "unquestionably",
+  "phonetic0": "/ʌnˈkwestʃənəbli/",
+  "trans": "ad. 毫无疑问地"
+ },
+ {
+  "word": "upcoming",
+  "phonetic0": "/ˈʌpkʌmɪŋ/",
+  "trans": "a. 即将到来的"
+ },
+ {
+  "word": "vacation",
+  "phonetic0": "/veɪˈkeɪʃ(ə)n/",
+  "trans": "n. 假期,休假"
+ },
+ {
+  "word": "vivid",
+  "phonetic0": "/ˈvɪvɪd/",
+  "trans": "a. 生动的"
+ },
+ {
+  "word": "vividly",
+  "phonetic0": "/ˈvɪvɪdli/",
+  "trans": "ad.生动地"
+ },
+ {
+  "word": "websites",
+  "phonetic0": "/ˈwebˌsaɪts/",
+  "trans": "食品分享软件/网站"
+ },
+ {
+  "word": "well-designed",
+  "phonetic0": "/wel dɪˈzaɪnd/",
+  "trans": "a. 设计巧妙的"
+ },
+ {
+  "word": "well-informed",
+  "phonetic0": "/ˌwel ɪnˈfɔːrmd/",
+  "trans": "a. 见多识广的;博学的"
+ },
+ {
+  "word": "well-preserved",
+  "phonetic0": "/ˌwel prɪˈzɜːrvd/",
+  "trans": "a. 保存完好的"
+ },
+ {
+  "word": "widen",
+  "phonetic0": "/ˈwaɪd(ə)n/",
+  "trans": "扩大代沟"
+ },
+ {
+  "word": "wonderful",
+  "phonetic0": "/ˈwʌndərf(ə)l/",
+  "trans": "a. 绝妙的,极好的"
+ },
+ {
+  "word": "workout",
+  "phonetic0": "/ˈwɜːrkaʊt/",
+  "trans": "n. 锻炼"
+ },
+ {
+  "word": "adaptability",
+  "phonetic0": "/əˌdæptəˈbɪləti/",
+  "trans": "n. 适应性"
+ },
+ {
+  "word": "air",
+  "phonetic0": "/er/",
+  "trans": "n. 空气；活用：vt. 公开发表(看法)"
+ },
+ {
+  "word": "all-round",
+  "phonetic0": "/ˌɔːl ˈraʊnd/",
+  "trans": "a. 全面的;全能的"
+ },
+ {
+  "word": "ambitious",
+  "phonetic0": "/æmˈbɪʃəs/",
+  "trans": "a.雄心勃勃的;有抱负的"
+ },
+ {
+  "word": "automatic",
+  "phonetic0": "/ˌɔːtəˈmætɪk/",
+  "trans": "a.自动的；活用：a.当然的;必然的"
+ },
+ {
+  "word": "bear",
+  "phonetic0": "/ber/",
+  "trans": "v. 忍受"
+ },
+ {
+  "word": "bias",
+  "phonetic0": "/ˈbaɪəs/",
+  "trans": "n. 偏见"
+ },
+ {
+  "word": "blending",
+  "phonetic0": "/ˈblendɪŋ/",
+  "trans": "文化交融"
+ },
+ {
+  "word": "booking",
+  "phonetic0": "/ˈbʊkɪŋ/",
+  "trans": "n. 预约"
+ },
+ {
+  "word": "breathe",
+  "phonetic0": "/briːð/",
+  "trans": [
+   "v. 呼吸；呼出，吐出；吸入；低声说；透气；（酒）通气透香；将……注入"
+  ]
+ },
+ {
+  "word": "bridge",
+  "phonetic0": "/brɪdʒ/",
+  "trans": "n. 桥梁；活用：vt. 消除(分歧),弥合(差距)"
+ },
+ {
+  "word": "cater",
+  "phonetic0": "/ˈkeɪtər/",
+  "trans": [
+   "v. 提供餐饮服务，承办酒席；满足，迎合"
+  ]
+ },
+ {
+  "word": "civilization",
+  "phonetic0": "/ˌsɪvələˈzeɪʃn/",
+  "trans": "n.文明"
+ },
+ {
+  "word": "coexistence",
+  "phonetic0": "/ˌkoʊɪɡˈzɪstəns/",
+  "trans": "n. 共存"
+ },
+ {
+  "word": "committed",
+  "phonetic0": "/kəˈmɪtɪd/",
+  "trans": [
+   "adj. 尽心尽力的，忠诚的"
+  ]
+ },
+ {
+  "word": "compassion",
+  "phonetic0": "/kəmˈpæʃ(ə)n/",
+  "trans": "n. 同情"
+ },
+ {
+  "word": "compassionate",
+  "phonetic0": "/kəmˈpæʃənət/",
+  "trans": "a.有同情心的"
+ },
+ {
+  "word": "compete",
+  "phonetic0": "/kəmˈpiːt/",
+  "trans": "竞争"
+ },
+ {
+  "word": "competitor",
+  "phonetic0": "/kəmˈpetɪtər/",
+  "trans": "n. 对手"
+ },
+ {
+  "word": "comply",
+  "phonetic0": "/kəmˈplaɪ/",
+  "trans": [
+   "v. 遵从，服从；（商品）符合特定标准"
+  ]
+ },
+ {
+  "word": "conform",
+  "phonetic0": "/kənˈfɔːrm/",
+  "trans": [
+   "v. 遵守，符合；顺从，随潮流；一致，相吻合"
+  ]
+ },
+ {
+  "word": "Confucianism",
+  "phonetic0": "/kənˈfjuːʃənɪzəm/",
+  "trans": "n.儒学"
+ },
+ {
+  "word": "conscience",
+  "phonetic0": "/ˈkɑːnʃəns/",
+  "trans": "n.良心;良知"
+ },
+ {
+  "word": "conservation",
+  "phonetic0": "/ˌkɑːnsərˈveɪʃ(ə)n/",
+  "trans": "环境保护"
+ },
+ {
+  "word": "courage",
+  "phonetic0": "/ˈkɜːrɪdʒ/",
+  "trans": "n.勇气;勇敢"
+ },
+ {
+  "word": "court",
+  "phonetic0": "/kɔːrt/",
+  "trans": "n. 法庭；活用：vt. 招致,导致"
+ },
+ {
+  "word": "courtesy",
+  "phonetic0": "/ˈkɜːrtəsi/",
+  "trans": "n.谦恭;礼貌"
+ },
+ {
+  "word": "credit",
+  "phonetic0": "/ˈkredɪt/",
+  "trans": "n. 学分"
+ },
+ {
+  "word": "cross-cultural",
+  "phonetic0": "/ˌkrɔːs ˈkʌltʃərəl/",
+  "trans": "a.跨文化的"
+ },
+ {
+  "word": "cuisine",
+  "phonetic0": "/kwɪˈziːn/",
+  "trans": "n. 烹饪"
+ },
+ {
+  "word": "curriculum",
+  "phonetic0": "/kəˈrɪkjələm/",
+  "trans": "n.(学校等的)全部课程"
+ },
+ {
+  "word": "cybercrime",
+  "phonetic0": "/ˈsaɪbərkraɪm/",
+  "trans": "n.网络犯罪"
+ },
+ {
+  "word": "decent",
+  "phonetic0": "/ˈdiːsnt/",
+  "trans": "a.正派的"
+ },
+ {
+  "word": "decisive",
+  "phonetic0": "/dɪˈsaɪsɪv/",
+  "trans": "a. 果断的,决断的"
+ },
+ {
+  "word": "decorate",
+  "phonetic0": "/ˈdekəreɪt/",
+  "trans": "v. 装饰"
+ },
+ {
+  "word": "degradation",
+  "phonetic0": "/ˌdeɡrəˈdeɪʃ(ə)n/",
+  "trans": "n. 恶化"
+ },
+ {
+  "word": "depression",
+  "phonetic0": "/dɪˈpreʃ(ə)n/",
+  "trans": "n. 萧条期,经济衰退"
+ },
+ {
+  "word": "dignity",
+  "phonetic0": "/ˈdɪɡnəti/",
+  "trans": "n.自尊"
+ },
+ {
+  "word": "diligence",
+  "phonetic0": "/ˈdɪlɪdʒəns/",
+  "trans": "n. 勤勉,勤奋"
+ },
+ {
+  "word": "diploma",
+  "phonetic0": "/dɪˈploʊmə/",
+  "trans": "n. 毕业文凭"
+ },
+ {
+  "word": "diplomatic",
+  "phonetic0": "/ˌdɪpləˈmætɪk/",
+  "trans": "a.有手腕的,灵活变通的"
+ },
+ {
+  "word": "disagreement",
+  "phonetic0": "/ˌdɪsəˈɡriːmənt/",
+  "trans": "n. 不同意"
+ },
+ {
+  "word": "disciplined",
+  "phonetic0": "/ˈdɪsəplɪnd/",
+  "trans": "a.遵守纪律的"
+ },
+ {
+  "word": "disorder",
+  "phonetic0": "/dɪsˈɔːrdər/",
+  "trans": "n. 失调,紊乱"
+ },
+ {
+  "word": "dominating",
+  "phonetic0": "/ˈdɑːmɪneɪtɪŋ/",
+  "trans": [
+   "adj. 主要的，主导的，有影响力的；专横的，盛气凌人的，独裁的；高耸的，居高临下的"
+  ]
+ },
+ {
+  "word": "edge",
+  "phonetic0": "/edʒ/",
+  "trans": "n. 边缘；活用：vt.&vi.(使)徐徐移动"
+ },
+ {
+  "word": "elective",
+  "phonetic0": "/ɪˈlektɪv/",
+  "trans": "选修课"
+ },
+ {
+  "word": "emission",
+  "phonetic0": "/ɪˈmɪʃ(ə)n/",
+  "trans": "n. 排放"
+ },
+ {
+  "word": "emotional",
+  "phonetic0": "/ɪˈmoʊʃən(ə)l/",
+  "trans": "情绪/身体/心理健康"
+ },
+ {
+  "word": "endure",
+  "phonetic0": "/ɪnˈdʊr/",
+  "trans": "v. 忍受"
+ },
+ {
+  "word": "enlighten",
+  "phonetic0": "/ɪnˈlaɪt(ə)n/",
+  "trans": "v. 启发"
+ },
+ {
+  "word": "environmentalist",
+  "phonetic0": "/ɪnˌvaɪrənˈmentəlɪst/",
+  "trans": "n. 环境保护主义者"
+ },
+ {
+  "word": "expertise",
+  "phonetic0": "/ˌekspɜːrˈtiːz/",
+  "trans": [
+   "n. 专长，专门技能（知识）；专家的意见"
+  ]
+ },
+ {
+  "word": "export",
+  "phonetic0": "/ɪkˈspɔːrt; ˈekspɔːrt/",
+  "trans": "n. 出口;出口商品"
+ },
+ {
+  "word": "extrovert",
+  "phonetic0": "/ˈekstrəvɜːrt/",
+  "trans": "a.外向的"
+ },
+ {
+  "word": "faith",
+  "phonetic0": "/feɪθ/",
+  "trans": "n. 信仰"
+ },
+ {
+  "word": "faithful",
+  "phonetic0": "/ˈfeɪθf(ə)l/",
+  "trans": "a.守信的;忠诚的"
+ },
+ {
+  "word": "fame",
+  "phonetic0": "/feɪm/",
+  "trans": "名望"
+ },
+ {
+  "word": "farmer",
+  "phonetic0": "/ˈfɑːrmər/",
+  "trans": "农民"
+ },
+ {
+  "word": "fat",
+  "phonetic0": "/fæt/",
+  "trans": "a.肥胖的 n.肥肉;脂肪；活用：a.大量的;值钱的"
+ },
+ {
+  "word": "firm",
+  "phonetic0": "/fɜːrm/",
+  "trans": "n. 公司"
+ },
+ {
+  "word": "flock",
+  "phonetic0": "/flɑːk/",
+  "trans": [
+   "n. （鸟或羊等动物）群；一大群人；（某个教堂的）会众，全体教徒；（填充垫子的）絮屑，毛棉填料；（植绒用的）短绒，绒屑"
+  ]
+ },
+ {
+  "word": "flood",
+  "phonetic0": "/flʌd/",
+  "trans": "n. 洪水；活用：vi. 大量涌入"
+ },
+ {
+  "word": "flourish",
+  "phonetic0": "/ˈflɜːrɪʃ/",
+  "trans": "v. 繁荣,兴旺"
+ },
+ {
+  "word": "forefront",
+  "phonetic0": "/ˈfɔːrfrʌnt/",
+  "trans": "n. 前沿"
+ },
+ {
+  "word": "fragile",
+  "phonetic0": "/ˈfrædʒ(ə)l/",
+  "trans": "a. 脆弱的"
+ },
+ {
+  "word": "frank",
+  "phonetic0": "/fræŋk/",
+  "trans": "a.直率的"
+ },
+ {
+  "word": "freshman",
+  "phonetic0": "/ˈfreʃmən/",
+  "trans": "n. 大一新生"
+ },
+ {
+  "word": "friction",
+  "phonetic0": "/ˈfrɪkʃ(ə)n/",
+  "trans": [
+   "n. 不和，分歧；摩擦；摩擦力"
+  ]
+ },
+ {
+  "word": "friendliness",
+  "phonetic0": "/ˈfrendlinəs/",
+  "trans": "n.友好"
+ },
+ {
+  "word": "fuel",
+  "phonetic0": "/ˈfjuːəl/",
+  "trans": "n. 燃料；活用：vt. 刺激;加强"
+ },
+ {
+  "word": "game",
+  "phonetic0": "/ɡeɪm/",
+  "trans": "n. 比赛"
+ },
+ {
+  "word": "gentle",
+  "phonetic0": "/ˈdʒent(ə)l/",
+  "trans": "a.文静的;温柔的；活用：a.徐缓的"
+ },
+ {
+  "word": "happiness",
+  "phonetic0": "/ˈhæpinəs/",
+  "trans": "n. 幸福"
+ },
+ {
+  "word": "haze",
+  "phonetic0": "/heɪz/",
+  "trans": "n. 霊"
+ },
+ {
+  "word": "head",
+  "phonetic0": "/hed/",
+  "trans": "n. 头;头部；活用：vt. 领导"
+ },
+ {
+  "word": "high-fat",
+  "phonetic0": "/haɪ fæt/",
+  "trans": "a. 高脂肪的"
+ },
+ {
+  "word": "high-sugar",
+  "phonetic0": null,
+  "trans": "a. 高糖分的"
+ },
+ {
+  "word": "high-tech",
+  "phonetic0": "/ˌhaɪ ˈtek/",
+  "trans": "a. 高科技的"
+ },
+ {
+  "word": "hunger",
+  "phonetic0": "/ˈhʌŋɡər/",
+  "trans": "n. 饥饿"
+ },
+ {
+  "word": "import",
+  "phonetic0": "/ˈɪmpɔːrt/",
+  "trans": "n. 进口;进口商品"
+ },
+ {
+  "word": "insist",
+  "phonetic0": "/ɪnˈsɪst/",
+  "trans": "坚持"
+ },
+ {
+  "word": "intake",
+  "phonetic0": "/ˈɪnteɪk/",
+  "trans": "n.(食物、饮料等的)摄取量"
+ },
+ {
+  "word": "introverted",
+  "phonetic0": "/ˈɪntrəvɜːrtɪd/",
+  "trans": "a. 内向的"
+ },
+ {
+  "word": "jobless",
+  "phonetic0": "/ˈdʒɑːbləs/",
+  "trans": [
+   "adj. 失业的，无业的；（关于）失业者的"
+  ]
+ },
+ {
+  "word": "junior",
+  "phonetic0": "/ˈdʒuːniər/",
+  "trans": "n. 大三学生"
+ },
+ {
+  "word": "keen",
+  "phonetic0": "/kiːn/",
+  "trans": "敏锐的"
+ },
+ {
+  "word": "law-abiding",
+  "phonetic0": "/ˈlɔː əbaɪdɪŋ/",
+  "trans": "a.守法的"
+ },
+ {
+  "word": "liberal",
+  "phonetic0": "/ˈlɪbərəl/",
+  "trans": "a.心胸宽阔的"
+ },
+ {
+  "word": "longevity",
+  "phonetic0": "/lɔːnˈdʒevəti/",
+  "trans": "长寿"
+ },
+ {
+  "word": "loyal",
+  "phonetic0": "/ˈlɔɪəl/",
+  "trans": "a.忠心的"
+ },
+ {
+  "word": "loyalty",
+  "phonetic0": "/ˈlɔɪəlti/",
+  "trans": "忠诚"
+ },
+ {
+  "word": "mass",
+  "phonetic0": "/mæs/",
+  "trans": "大众文化"
+ },
+ {
+  "word": "microblog",
+  "phonetic0": "/ˈmaɪkroʊblɑːɡ/",
+  "trans": "n. 微博"
+ },
+ {
+  "word": "modest",
+  "phonetic0": "/ˈmɑːdɪst/",
+  "trans": "a.谦虚的"
+ },
+ {
+  "word": "morality",
+  "phonetic0": "/məˈræləti/",
+  "trans": "n. 道德观"
+ },
+ {
+  "word": "mortality",
+  "phonetic0": "/mɔːrˈtæləti/",
+  "trans": "n. 死亡率"
+ },
+ {
+  "word": "nutritious",
+  "phonetic0": "/nuˈtrɪʃəs/",
+  "trans": "a. 有营养的"
+ },
+ {
+  "word": "object",
+  "phonetic0": "/ˈɑːbdʒekt; ˈɑːbdʒekt; əbˈdʒekt/",
+  "trans": [
+   "n. 物体，实物；目的，目标；宾语；（引发某种情感或行为的）对象；客体；（计算机）对象"
+  ]
+ },
+ {
+  "word": "outgoing",
+  "phonetic0": "/ˈaʊtɡoʊɪŋ/",
+  "trans": "a. 外向的"
+ },
+ {
+  "word": "outlook",
+  "phonetic0": "/ˈaʊtlʊk/",
+  "trans": "n. 前景"
+ },
+ {
+  "word": "outnumber",
+  "phonetic0": "/ˌaʊtˈnʌmbər/",
+  "trans": "(在数量上)超过"
+ },
+ {
+  "word": "owing",
+  "phonetic0": "/ˈoʊɪŋ/",
+  "trans": [
+   "v. 欠（钱）；应该给予（感激、尊敬等）；归因于，归功于（owe 的现在分词）"
+  ]
+ },
+ {
+  "word": "pension",
+  "phonetic0": "/ˈpenʃən/",
+  "trans": "n. 养老金"
+ },
+ {
+  "word": "persevere",
+  "phonetic0": "/ˌpɜːrsəˈvɪr/",
+  "trans": [
+   "v. 锲而不舍，坚持不懈；固执己见（在辩论中）"
+  ]
+ },
+ {
+  "word": "PhD",
+  "phonetic0": "/ˌpiː eɪtʃ ˈdiː/",
+  "trans": "博士学位"
+ },
+ {
+  "word": "physically",
+  "phonetic0": "/ˈfɪzɪkli/",
+  "trans": "身体上/心理上"
+ },
+ {
+  "word": "poisonous",
+  "phonetic0": "/ˈpɔɪzənəs/",
+  "trans": "有毒的"
+ },
+ {
+  "word": "politeness",
+  "phonetic0": "/pəˈlaɪtnəs/",
+  "trans": "n.谦恭;礼貌"
+ },
+ {
+  "word": "press",
+  "phonetic0": "/pres/",
+  "trans": [
+   "n. 新闻工作者，新闻界，报刊（the press）；新闻报道；新闻舆论，媒体评论；印刷机；出版社，印刷厂；印刷；按，压，熨；压平器，熨烫机；人群，拥挤；<爱，苏格兰>大壁橱，衣柜，书柜；（篮球）紧逼；（举重）推举；<史>（尤指海军的）强行征兵；<旧>商业压力"
+  ]
+ },
+ {
+  "word": "punctual",
+  "phonetic0": "/ˈpʌŋktʃuəl/",
+  "trans": "a.守时的"
+ },
+ {
+  "word": "punishment",
+  "phonetic0": "/ˈpʌnɪʃmənt/",
+  "trans": "n. 惩罚"
+ },
+ {
+  "word": "quality-oriented",
+  "phonetic0": null,
+  "trans": "素质/应试教育"
+ },
+ {
+  "word": "recession",
+  "phonetic0": "/rɪˈseʃ(ə)n/",
+  "trans": "n. 经济衰退,经济萎缩"
+ },
+ {
+  "word": "reliance",
+  "phonetic0": "/rɪˈlaɪəns/",
+  "trans": "n.信任"
+ },
+ {
+  "word": "reputation",
+  "phonetic0": "/ˌrepjuˈteɪʃ(ə)n/",
+  "trans": "n.名声;名誉"
+ },
+ {
+  "word": "reward",
+  "phonetic0": "/rɪˈwɔːrd/",
+  "trans": "n. 回报"
+ },
+ {
+  "word": "sector",
+  "phonetic0": "/ˈsektər/",
+  "trans": "旅游业"
+ },
+ {
+  "word": "self-respect",
+  "phonetic0": "/ˌself rɪˈspekt/",
+  "trans": "n.自尊"
+ },
+ {
+  "word": "senior",
+  "phonetic0": "/ˈsiːniər/",
+  "trans": "n. 大四学生"
+ },
+ {
+  "word": "setback",
+  "phonetic0": "/ˈsetbæk/",
+  "trans": "n. 挫败"
+ },
+ {
+  "word": "smoke",
+  "phonetic0": "/smoʊk/",
+  "trans": "v. 吸烟"
+ },
+ {
+  "word": "sociable",
+  "phonetic0": "/ˈsoʊʃəb(ə)l/",
+  "trans": "a. 合群的,好交际的"
+ },
+ {
+  "word": "solidarity",
+  "phonetic0": "/ˌsɑːlɪˈdærəti/",
+  "trans": "n. 团结一致"
+ },
+ {
+  "word": "stagnant",
+  "phonetic0": "/ˈstæɡnənt/",
+  "trans": "a.(经济、社会等)停滞不前的"
+ },
+ {
+  "word": "stem",
+  "phonetic0": "/stem/",
+  "trans": [
+   "n. （植物、灌木的）茎，干；（高脚酒杯的）柄脚；（语法中的）词干；烟斗柄；主干；船头，艏柱；（机械装置的）阀杆，导杆，棒；<古，文>血统；<美>（手表的）发条转柄；（文字的）干线，（音符的）符干；<美，非正式>鸦片烟枪"
+  ]
+ },
+ {
+  "word": "sub-health",
+  "phonetic0": "/sʌb helθ/",
+  "trans": "n. 亚健康"
+ },
+ {
+  "word": "surface",
+  "phonetic0": "/ˈsɜːrfɪs/",
+  "trans": "n.表面；活用：vi.显露,暴露"
+ },
+ {
+  "word": "sympathy",
+  "phonetic0": "/ˈsɪmpəθi/",
+  "trans": "n. 同情"
+ },
+ {
+  "word": "Taoism",
+  "phonetic0": "/ˈdaʊɪzəm/",
+  "trans": "n.道家"
+ },
+ {
+  "word": "thrive",
+  "phonetic0": "/θraɪv/",
+  "trans": "v. 繁荣,兴旺"
+ },
+ {
+  "word": "tuition",
+  "phonetic0": "/tuˈɪʃ(ə)n/",
+  "trans": "n. 学费"
+ },
+ {
+  "word": "unity",
+  "phonetic0": "/ˈjuːnəti/",
+  "trans": "n.团结"
+ },
+ {
+  "word": "up-to-date",
+  "phonetic0": "/ˌʌp tə ˈdeɪt/",
+  "trans": "a. 新式的"
+ },
+ {
+  "word": "variety",
+  "phonetic0": "/vəˈraɪəti/",
+  "trans": [
+   "n.  多样化，变化；种类，品种；（人或物的）各式各样；综艺表演，杂耍表演"
+  ]
+ },
+ {
+  "word": "WeChat",
+  "phonetic0": null,
+  "trans": "n.微信"
+ },
+ {
+  "word": "well-educated",
+  "phonetic0": "/wel ˈedʒukeɪtɪd/",
+  "trans": "a.受过良好教育的"
+ },
+ {
+  "word": "absence",
+  "phonetic0": "/ˈæbsəns/",
+  "trans": "n. 缺席,不在"
+ },
+ {
+  "word": "accomplishment",
+  "phonetic0": "/əˈkɑːmplɪʃmənt/",
+  "trans": "n. 成就（achievement 的升级表达）"
+ },
+ {
+  "word": "acute",
+  "phonetic0": "/əˈkjuːt/",
+  "trans": "敏锐的（升级表达）"
+ },
+ {
+  "word": "adequate",
+  "phonetic0": "/ˈædɪkwət/",
+  "trans": "a. 足够的（enough 的升级表达）"
+ },
+ {
+  "word": "advantageous",
+  "phonetic0": "/ˌædvənˈteɪdʒəs/",
+  "trans": "a. 积极的,好的（good 的升级表达）"
+ },
+ {
+  "word": "affluent",
+  "phonetic0": "/ˈæfluənt/",
+  "trans": "a. 富裕的"
+ },
+ {
+  "word": "allocation",
+  "phonetic0": "/ˌæləˈkeɪʃ(ə)n/",
+  "trans": "分配（升级表达）"
+ },
+ {
+  "word": "ample",
+  "phonetic0": "/ˈæmp(ə)l/",
+  "trans": "a. 足够的（enough 的升级表达）"
+ },
+ {
+  "word": "appealing",
+  "phonetic0": "/əˈpiːlɪŋ/",
+  "trans": "a. 吸引人的（attractive 的升级表达）"
+ },
+ {
+  "word": "appreciation",
+  "phonetic0": "/əˌpriːʃiˈeɪʃ(ə)n/",
+  "trans": "n.欣赏"
+ },
+ {
+  "word": "appropriately",
+  "phonetic0": "/əˈproʊpriətli/",
+  "trans": "ad. 恰当地（properly 的升级表达）"
+ },
+ {
+  "word": "aptitude",
+  "phonetic0": "/ˈæptɪtuːd/",
+  "trans": "n. 天赋"
+ },
+ {
+  "word": "aspiration",
+  "phonetic0": "/ˌæspəˈreɪʃ(ə)n/",
+  "trans": "志向;抱负（升级表达）"
+ },
+ {
+  "word": "assert",
+  "phonetic0": "/əˈsɜːrt/",
+  "trans": "v.认为"
+ },
+ {
+  "word": "association",
+  "phonetic0": "/əˌs​oʊ​siˈeɪʃn; əˌs​oʊ​ʃiˈeɪʃn/",
+  "trans": "n. 社团,协会"
+ },
+ {
+  "word": "cautious",
+  "phonetic0": "/ˈkɔːʃəs/",
+  "trans": "a. 小心的（careful 的升级表达）"
+ },
+ {
+  "word": "cease",
+  "phonetic0": "/siːs/",
+  "trans": "(使)停止（升级表达）"
+ },
+ {
+  "word": "celebrated",
+  "phonetic0": "/ˈselɪbreɪtɪd/",
+  "trans": "著名的（升级表达）"
+ },
+ {
+  "word": "celebrity",
+  "phonetic0": "/səˈlebrəti/",
+  "trans": "n.名人"
+ },
+ {
+  "word": "chaos",
+  "phonetic0": "/ˈkeɪɑːs/",
+  "trans": "混乱（升级表达）"
+ },
+ {
+  "word": "climb",
+  "phonetic0": "/klaɪm/",
+  "trans": "v. 上升"
+ },
+ {
+  "word": "compel",
+  "phonetic0": "/kəmˈpel/",
+  "trans": "强迫（升级表达）"
+ },
+ {
+  "word": "complicated",
+  "phonetic0": "/ˈkɑːmplɪkeɪtɪd/",
+  "trans": "a. 复杂的（complex 的升级表达）"
+ },
+ {
+  "word": "component",
+  "phonetic0": "/kəmˈpoʊnənt/",
+  "trans": "组成部分（constituent part 的升级表达）"
+ },
+ {
+  "word": "conference",
+  "phonetic0": "/ˈkɑːnfərəns/",
+  "trans": "n. 会议,研讨会"
+ },
+ {
+  "word": "confess",
+  "phonetic0": "/kənˈfes/",
+  "trans": "承认（升级表达）"
+ },
+ {
+  "word": "considerate",
+  "phonetic0": "/kənˈsɪdərət/",
+  "trans": "a.体贴的;替人着想的"
+ },
+ {
+  "word": "contamination",
+  "phonetic0": "/kənˌtæmɪˈneɪʃ(ə)n/",
+  "trans": "n. 污染（pollution 的升级表达）"
+ },
+ {
+  "word": "contest",
+  "phonetic0": "/ˈkɑːntest/",
+  "trans": "n. 比赛（game 的升级表达）"
+ },
+ {
+  "word": "contrasting",
+  "phonetic0": "/kənˈtræstɪŋ/",
+  "trans": "a. 不同的（different 的升级表达）"
+ },
+ {
+  "word": "corporation",
+  "phonetic0": "/ˌkɔːrpəˈreɪʃ(ə)n/",
+  "trans": "n. 公司（firm 的升级表达）"
+ },
+ {
+  "word": "criteria",
+  "phonetic0": "/kraɪˈtɪriə/",
+  "trans": "n. 标准（standard 的升级表达）"
+ },
+ {
+  "word": "delicate",
+  "phonetic0": "/ˈdelɪkət/",
+  "trans": "脆弱的（升级表达）"
+ },
+ {
+  "word": "deteriorate",
+  "phonetic0": "/dɪˈtɪriəreɪt/",
+  "trans": "变坏（get worse 的升级表达）"
+ },
+ {
+  "word": "detrimental",
+  "phonetic0": "/ˌdetrɪˈment(ə)l/",
+  "trans": "a. 有害的"
+ },
+ {
+  "word": "disapproval",
+  "phonetic0": "/ˌdɪsəˈpruːvl/",
+  "trans": "n. 不同意（disagreement 的升级表达）"
+ },
+ {
+  "word": "disclose",
+  "phonetic0": "/dɪsˈkloʊz/",
+  "trans": "揭露（升级表达）"
+ },
+ {
+  "word": "dismiss",
+  "phonetic0": "/dɪsˈmɪs/",
+  "trans": "解雇;开除（升级表达）"
+ },
+ {
+  "word": "distinctive",
+  "phonetic0": "/dɪˈstɪŋktɪv/",
+  "trans": "a. 独特的,特别的"
+ },
+ {
+  "word": "distinguished",
+  "phonetic0": "/dɪˈstɪŋɡwɪʃt/",
+  "trans": "a. 卓越的,杰出的"
+ },
+ {
+  "word": "domain",
+  "phonetic0": "/doʊˈmeɪn/",
+  "trans": "领域（升级表达）"
+ },
+ {
+  "word": "dynamic",
+  "phonetic0": "/daɪˈnæmɪk/",
+  "trans": "a. 充满活力的"
+ },
+ {
+  "word": "educator",
+  "phonetic0": "/ˈedʒukeɪtər/",
+  "trans": "n. 老师（teacher 的升级表达）"
+ },
+ {
+  "word": "elevate",
+  "phonetic0": "/ˈelɪveɪt/",
+  "trans": "v. 上升"
+ },
+ {
+  "word": "endeavor",
+  "phonetic0": "/ɪnˈdevər/",
+  "trans": "v. 努力,尝试（try 的升级表达）"
+ },
+ {
+  "word": "enterprise",
+  "phonetic0": "/ˈentərpraɪz/",
+  "trans": "n. 公司（firm 的升级表达）"
+ },
+ {
+  "word": "entertainment",
+  "phonetic0": "/ˌentərˈteɪnmənt/",
+  "trans": "n. 娱乐"
+ },
+ {
+  "word": "eternal",
+  "phonetic0": "/ɪˈtɜːrn(ə)l/",
+  "trans": "永恒的（升级表达）"
+ },
+ {
+  "word": "evolution",
+  "phonetic0": "/ˌevəˈluːʃ(ə)n/",
+  "trans": "发展（升级表达）"
+ },
+ {
+  "word": "exhausted",
+  "phonetic0": "/ɪɡˈzɔːstɪd/",
+  "trans": "a. 筋疲力尽的"
+ },
+ {
+  "word": "expenditure",
+  "phonetic0": "/ɪkˈspendɪtʃər/",
+  "trans": "费用（升级表达）"
+ },
+ {
+  "word": "extraordinary",
+  "phonetic0": "/ɪkˈstrɔːrdəneri/",
+  "trans": "a. 异乎寻常的;非凡的,卓越的"
+ },
+ {
+  "word": "fascinating",
+  "phonetic0": "/ˈfæsɪneɪtɪŋ/",
+  "trans": "a. 迷人的"
+ },
+ {
+  "word": "feasible",
+  "phonetic0": "/ˈfiːzəb(ə)l/",
+  "trans": "a. 行得通的"
+ },
+ {
+  "word": "found",
+  "phonetic0": "/faʊnd/",
+  "trans": "v. 建立（build 的升级表达）"
+ },
+ {
+  "word": "frustration",
+  "phonetic0": "/frʌˈstreɪʃ(ə)n/",
+  "trans": "n. 沮丧;挫败"
+ },
+ {
+  "word": "generate",
+  "phonetic0": "/ˈdʒenəreɪt/",
+  "trans": "v. 产生（produce 的升级表达）"
+ },
+ {
+  "word": "genuinely",
+  "phonetic0": "/ˈdʒenjuɪnli/",
+  "trans": "ad. 真诚地"
+ },
+ {
+  "word": "governance",
+  "phonetic0": "/ˈɡʌvərnəns/",
+  "trans": "统治（升级表达）"
+ },
+ {
+  "word": "grasp",
+  "phonetic0": "/ɡræsp/",
+  "trans": "理解（升级表达）"
+ },
+ {
+  "word": "hazard",
+  "phonetic0": "/ˈhæzərd/",
+  "trans": "危害（升级表达）"
+ },
+ {
+  "word": "hinder",
+  "phonetic0": "/ˈhɪndər/",
+  "trans": "v. 阻碍"
+ },
+ {
+  "word": "impair",
+  "phonetic0": "/ɪmˈper/",
+  "trans": "v. 破坏,损坏（damage 的升级表达）"
+ },
+ {
+  "word": "impartial",
+  "phonetic0": "/ɪmˈpɑːrʃ(ə)l/",
+  "trans": "a. 公平的（fair 的升级表达）"
+ },
+ {
+  "word": "impede",
+  "phonetic0": "/ɪmˈpiːd/",
+  "trans": "v. 阻碍（block 的升级表达）"
+ },
+ {
+  "word": "incentive",
+  "phonetic0": "/ɪnˈsentɪv/",
+  "trans": "动力（升级表达）"
+ },
+ {
+  "word": "inclination",
+  "phonetic0": "/ˌɪnklɪˈneɪʃ(ə)n/",
+  "trans": "n. 倾向（tendency 的升级表达）"
+ },
+ {
+  "word": "indispensable",
+  "phonetic0": "/ˌɪndɪˈspensəb(ə)l/",
+  "trans": "a. 不可或缺的"
+ },
+ {
+  "word": "initiate",
+  "phonetic0": "/ɪˈnɪʃieɪt/",
+  "trans": "开始（升级表达）"
+ },
+ {
+  "word": "instantly",
+  "phonetic0": "/ˈɪnstəntli/",
+  "trans": "立即（升级表达）"
+ },
+ {
+  "word": "instructor",
+  "phonetic0": "/ɪnˈstrʌktər/",
+  "trans": "n. 老师（teacher 的升级表达）"
+ },
+ {
+  "word": "lecturer",
+  "phonetic0": "/ˈlektʃərər/",
+  "trans": "n. 老师（teacher 的升级表达）"
+ },
+ {
+  "word": "liability",
+  "phonetic0": "/ˌlaɪəˈbɪləti/",
+  "trans": "n. 责任（responsibility 的升级表达）"
+ },
+ {
+  "word": "lighten",
+  "phonetic0": "/ˈlaɪtn/",
+  "trans": "v. 减轻（ease 的升级表达）"
+ },
+ {
+  "word": "mankind",
+  "phonetic0": "/mænˈkaɪnd/",
+  "trans": "n. 人类（human beings 的升级表达）"
+ },
+ {
+  "word": "mentality",
+  "phonetic0": "/menˈtæləti/",
+  "trans": "心态（升级表达）"
+ },
+ {
+  "word": "merits",
+  "phonetic0": "/ˈmerɪts/",
+  "trans": "n. 优点（advantage 的升级表达）"
+ },
+ {
+  "word": "mount",
+  "phonetic0": "/maʊnt/",
+  "trans": "v. 上升（increase 的升级表达）"
+ },
+ {
+  "word": "nurture",
+  "phonetic0": "/ˈnɜːrtʃər/",
+  "trans": "v. 培养（develop 的升级表达）"
+ },
+ {
+  "word": "obligation",
+  "phonetic0": "/ˌɑːblɪˈɡeɪʃn/",
+  "trans": "n. 责任（duty 的升级表达）"
+ },
+ {
+  "word": "occupation",
+  "phonetic0": "/ˌɑːkjuˈpeɪʃ(ə)n/",
+  "trans": "n. 职业（career 的升级表达）"
+ },
+ {
+  "word": "offspring",
+  "phonetic0": "/ˈɔːfsprɪŋ/",
+  "trans": "子孙"
+ },
+ {
+  "word": "opponent",
+  "phonetic0": "/əˈpoʊnənt/",
+  "trans": "n. 对手（competitor 的升级表达）"
+ },
+ {
+  "word": "penalty",
+  "phonetic0": "/ˈpenəlti/",
+  "trans": "n. 惩罚（punishment 的升级表达）"
+ },
+ {
+  "word": "possession",
+  "phonetic0": "/pəˈzeʃn/",
+  "trans": [
+   "n. <正式> 拥有，持有；个人财产，所有物；持有违禁物，私藏毒品（或武器）；（对球的）控制，球权；进攻；领地，殖民地；鬼魂附体，着魔；（观点或情感的）支配，控制"
+  ]
+ },
+ {
+  "word": "prejudice",
+  "phonetic0": "/ˈpredʒədɪs/",
+  "trans": "n. 偏见（bias 的升级表达）"
+ },
+ {
+  "word": "prompt",
+  "phonetic0": "/prɑːmpt/",
+  "trans": "v. 引起（cause 的升级表达）"
+ },
+ {
+  "word": "promptly",
+  "phonetic0": "/ˈprɑːmptli/",
+  "trans": "立即（升级表达）"
+ },
+ {
+  "word": "prosperity",
+  "phonetic0": "/prɑːˈsperəti/",
+  "trans": "n. 繁荣（boom 的升级表达）"
+ },
+ {
+  "word": "recreation",
+  "phonetic0": "/ˌriːkriˈeɪʃn; ˌrekriˈeɪʃən/",
+  "trans": "n. 娱乐"
+ },
+ {
+  "word": "repeatedly",
+  "phonetic0": "/rɪˈpiːtɪdli/",
+  "trans": "ad. 常常（often 的升级表达）"
+ },
+ {
+  "word": "reservation",
+  "phonetic0": "/ˌrezərˈveɪʃ(ə)n/",
+  "trans": "n. 预约（booking 的升级表达）"
+ },
+ {
+  "word": "restriction",
+  "phonetic0": "/rɪˈstrɪkʃ(ə)n/",
+  "trans": "n. 限制（limit 的升级表达）"
+ },
+ {
+  "word": "rival",
+  "phonetic0": "/ˈraɪv(ə)l/",
+  "trans": "n.竞争者"
+ },
+ {
+  "word": "robust",
+  "phonetic0": "/roʊˈbʌst/",
+  "trans": "a. 健康的（healthy 的升级表达）"
+ },
+ {
+  "word": "sound",
+  "phonetic0": "/saʊnd/",
+  "trans": "a. 健康的（healthy 的升级表达）"
+ },
+ {
+  "word": "straightforward",
+  "phonetic0": "/ˌstreɪtˈfɔːrwərd/",
+  "trans": "a. 直接的"
+ },
+ {
+  "word": "surroundings",
+  "phonetic0": "/səˈraʊndɪŋz/",
+  "trans": "环境（升级表达）"
+ },
+ {
+  "word": "tough",
+  "phonetic0": "/tʌf/",
+  "trans": "困难的（升级表达）"
+ },
+ {
+  "word": "toxic",
+  "phonetic0": "/ˈtɑːksɪk/",
+  "trans": "有毒的（升级表达）"
+ },
+ {
+  "word": "trustworthy",
+  "phonetic0": "/ˈtrʌstwɜːrði/",
+  "trans": "可信赖的（升级表达）"
+ },
+ {
+  "word": "undermine",
+  "phonetic0": "/ˌʌndərˈmaɪn/",
+  "trans": "削弱信心"
+ },
+ {
+  "word": "undesirable",
+  "phonetic0": "/ˌʌndɪˈzaɪərəb(ə)l/",
+  "trans": "a. 坏的,有害的（bad 的升级表达）"
+ },
+ {
+  "word": "utilize",
+  "phonetic0": "/ˈjuːtəlaɪz/",
+  "trans": "使用（升级表达）"
+ },
+ {
+  "word": "vigorous",
+  "phonetic0": "/ˈvɪɡərəs/",
+  "trans": "精力旺盛的（升级表达）"
+ },
+ {
+  "word": "virtue",
+  "phonetic0": "/ˈvɜːrtʃuː/",
+  "trans": "n.美德"
+ },
+ {
+  "word": "well-off",
+  "phonetic0": "/ˌwel ˈɔːf/",
+  "trans": "a. 富裕的"
+ },
+ {
+  "word": "youngsters",
+  "phonetic0": "/ˈjʌŋstər/",
+  "trans": "青少年（young people 的升级表达）"
+ },
+ {
+  "word": "youths",
+  "phonetic0": "/jʊθs/",
+  "trans": "青少年（young people 的升级表达）"
+ }
+]

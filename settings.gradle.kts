@@ -32,3 +32,5 @@ dependencyResolutionManagement {
 rootProject.name = "TypeArticle"
 
 include(":app")
+include(":shared")
+include(":desktop")

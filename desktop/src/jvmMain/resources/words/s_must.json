@@ -1,0 +1,1256 @@
+[
+ {
+  "word": "ability",
+  "phonetic0": "/əˈbɪləti/",
+  "trans": "n. 能力"
+ },
+ {
+  "word": "above-mentioned",
+  "phonetic0": "/əˌbʌv ˈmenʃnd/",
+  "trans": "a.上述的,上面提到的"
+ },
+ {
+  "word": "accept",
+  "phonetic0": "/əkˈsept/",
+  "trans": "v. 接受"
+ },
+ {
+  "word": "advantage",
+  "phonetic0": "/ədˈvæntɪdʒ/",
+  "trans": "n. 优点,优势"
+ },
+ {
+  "word": "advisable",
+  "phonetic0": "/ədˈvaɪzəb(ə)l/",
+  "trans": "a. 明智的,可取的"
+ },
+ {
+  "word": "advise",
+  "phonetic0": "/ədˈvaɪz/",
+  "trans": "劝告;建议"
+ },
+ {
+  "word": "affect",
+  "phonetic0": "/əˈfekt/",
+  "trans": "v. 影响"
+ },
+ {
+  "word": "agree",
+  "phonetic0": "/əˈɡriː/",
+  "trans": "v. 同意/不同意"
+ },
+ {
+  "word": "aim",
+  "phonetic0": "/eɪm/",
+  "trans": "n. 目标,目的"
+ },
+ {
+  "word": "apologize",
+  "phonetic0": "/əˈpɑːlədʒaɪz/",
+  "trans": "v.道歉"
+ },
+ {
+  "word": "applicant",
+  "phonetic0": "/ˈæplɪkənt/",
+  "trans": "n.申请人"
+ },
+ {
+  "word": "application",
+  "phonetic0": "/ˌæplɪˈkeɪʃ(ə)n/",
+  "trans": "n. 申请"
+ },
+ {
+  "word": "apply",
+  "phonetic0": "/əˈplaɪ/",
+  "trans": "学以致用"
+ },
+ {
+  "word": "appropriate",
+  "phonetic0": "/əˈproʊpriət/",
+  "trans": "a. 合适的,相称的"
+ },
+ {
+  "word": "arrange",
+  "phonetic0": "/əˈreɪndʒ/",
+  "trans": "v.安排"
+ },
+ {
+  "word": "assure",
+  "phonetic0": "/əˈʃʊr/",
+  "trans": "v. 确信,向......保证"
+ },
+ {
+  "word": "attach",
+  "phonetic0": "/əˈtætʃ/",
+  "trans": "v.附加"
+ },
+ {
+  "word": "available",
+  "phonetic0": "/əˈveɪləb(ə)l/",
+  "trans": "a. 可用的,可获得的"
+ },
+ {
+  "word": "average",
+  "phonetic0": "/ˈævərɪdʒ/",
+  "trans": "a. 平均的"
+ },
+ {
+  "word": "avoid",
+  "phonetic0": "/əˈvɔɪd/",
+  "trans": "逃避责任"
+ },
+ {
+  "word": "believe",
+  "phonetic0": "/bɪˈliːv/",
+  "trans": "相信......"
+ },
+ {
+  "word": "benefit",
+  "phonetic0": "/ˈbenɪfɪt/",
+  "trans": "v. 使受益 n. 好处,益处"
+ },
+ {
+  "word": "challenge",
+  "phonetic0": "/ˈtʃælɪndʒ/",
+  "trans": "n. 挑战,难题"
+ },
+ {
+  "word": "change",
+  "phonetic0": "/tʃeɪndʒ/",
+  "trans": "改变"
+ },
+ {
+  "word": "chart",
+  "phonetic0": "/tʃɑːrt/",
+  "trans": "n.图表"
+ },
+ {
+  "word": "clearly",
+  "phonetic0": "/ˈklɪrli/",
+  "trans": "ad. 明显地"
+ },
+ {
+  "word": "complain",
+  "phonetic0": "/kəmˈpleɪn/",
+  "trans": "v.投诉;抱怨"
+ },
+ {
+  "word": "complaint",
+  "phonetic0": "/kəmˈpleɪnt/",
+  "trans": "n.投诉;抱怨"
+ },
+ {
+  "word": "concern",
+  "phonetic0": "/kənˈsɜːrn/",
+  "trans": "n. 担心,忧虑"
+ },
+ {
+  "word": "conclusion",
+  "phonetic0": "/kənˈkluːʒ(ə)n/",
+  "trans": "n. 结论,推论"
+ },
+ {
+  "word": "confirm",
+  "phonetic0": "/kənˈfɜːrm/",
+  "trans": "v. 确定,确信"
+ },
+ {
+  "word": "congratulate",
+  "phonetic0": "/kənˈɡrætʃəleɪt/",
+  "trans": "v. 祝贺"
+ },
+ {
+  "word": "congratulations",
+  "phonetic0": "/kənˌɡrætʃəˈleɪʃ(ə)nz/",
+  "trans": "n. 祝贺"
+ },
+ {
+  "word": "consequence",
+  "phonetic0": "/ˈkɑːnsɪkwens/",
+  "trans": "n. 结果,后果"
+ },
+ {
+  "word": "consider",
+  "phonetic0": "/kənˈsɪdər/",
+  "trans": "v. 考虑;认为"
+ },
+ {
+  "word": "consideration",
+  "phonetic0": "/kənˌsɪdəˈreɪʃ(ə)n/",
+  "trans": "n. 体贴,关心;考虑,斟酌"
+ },
+ {
+  "word": "contact",
+  "phonetic0": "/ˈkɑːntækt/",
+  "trans": "v.联系"
+ },
+ {
+  "word": "contrast",
+  "phonetic0": "/ˈkɑːntræst/",
+  "trans": "n.对比"
+ },
+ {
+  "word": "convenience",
+  "phonetic0": "/kənˈviːniəns/",
+  "trans": "n. 方便,便利"
+ },
+ {
+  "word": "convenient",
+  "phonetic0": "/kənˈviːniənt/",
+  "trans": "a. 方便的"
+ },
+ {
+  "word": "convey",
+  "phonetic0": "/kənˈveɪ/",
+  "trans": "v.传达,表达"
+ },
+ {
+  "word": "create",
+  "phonetic0": "/kriˈeɪt/",
+  "trans": "v.产生,引起"
+ },
+ {
+  "word": "data",
+  "phonetic0": "/ˈdeɪtə; ˈdætə/",
+  "trans": "n. 数据"
+ },
+ {
+  "word": "deadline",
+  "phonetic0": "/ˈdedlaɪn/",
+  "trans": "n. 最后期限,截止日期"
+ },
+ {
+  "word": "decline",
+  "phonetic0": "/dɪˈklaɪn/",
+  "trans": "n.衰落"
+ },
+ {
+  "word": "decrease",
+  "phonetic0": "/dɪˈkriːs/",
+  "trans": "n. 下降"
+ },
+ {
+  "word": "delighted",
+  "phonetic0": "/dɪˈlaɪtɪd/",
+  "trans": "a. 高兴的"
+ },
+ {
+  "word": "depict",
+  "phonetic0": "/dɪˈpɪkt/",
+  "trans": "v. 描述,描绘"
+ },
+ {
+  "word": "describe",
+  "phonetic0": "/dɪˈskraɪb/",
+  "trans": "v. 描述,描绘"
+ },
+ {
+  "word": "develop",
+  "phonetic0": "/dɪˈveləp/",
+  "trans": "v. 培养"
+ },
+ {
+  "word": "development",
+  "phonetic0": "/dɪˈveləpmənt/",
+  "trans": "n. 发展,进展"
+ },
+ {
+  "word": "diagram",
+  "phonetic0": "/ˈdaɪəɡræm/",
+  "trans": "n.图表"
+ },
+ {
+  "word": "different",
+  "phonetic0": "/ˈdɪfrənt/",
+  "trans": "a. 不同的"
+ },
+ {
+  "word": "dramatic",
+  "phonetic0": "/drəˈmætɪk/",
+  "trans": "a.戏剧的;戏剧性的；活用：a.巨大的;令人吃惊的"
+ },
+ {
+  "word": "drawback",
+  "phonetic0": "/ˈdrɔːbæk/",
+  "trans": "n. 弊端"
+ },
+ {
+  "word": "drop",
+  "phonetic0": "/drɑːp/",
+  "trans": "n. 下降"
+ },
+ {
+  "word": "effect",
+  "phonetic0": "/ɪˈfekt/",
+  "trans": "影响"
+ },
+ {
+  "word": "effective",
+  "phonetic0": "/ɪˈfektɪv; əˈfektɪv/",
+  "trans": "a.有效的;实际的,事实上的"
+ },
+ {
+  "word": "emphasize",
+  "phonetic0": "/ˈemfəsaɪz/",
+  "trans": "v. 强调"
+ },
+ {
+  "word": "enclose",
+  "phonetic0": "/ɪnˈkloʊz/",
+  "trans": "v.随函(或包裹等)附上"
+ },
+ {
+  "word": "encourage",
+  "phonetic0": "/ɪnˈkɜːrɪdʒ/",
+  "trans": "v. 鼓励,激励"
+ },
+ {
+  "word": "especially",
+  "phonetic0": "/ɪˈspeʃəli/",
+  "trans": "ad.尤其;特别"
+ },
+ {
+  "word": "experience",
+  "phonetic0": "/ɪkˈspɪriəns/",
+  "trans": "v. 见证/经历"
+ },
+ {
+  "word": "explain",
+  "phonetic0": "/ɪkˈspleɪn/",
+  "trans": "v. 解释,说明"
+ },
+ {
+  "word": "express",
+  "phonetic0": "/ɪkˈspres/",
+  "trans": "v. 表达,表露"
+ },
+ {
+  "word": "factor",
+  "phonetic0": "/ˈfæktər/",
+  "trans": "n. 因素"
+ },
+ {
+  "word": "fall",
+  "phonetic0": "/fɔːl/",
+  "trans": "n. 下降"
+ },
+ {
+  "word": "feedback",
+  "phonetic0": "/ˈfiːdbæk/",
+  "trans": "n. 反馈意见"
+ },
+ {
+  "word": "figure",
+  "phonetic0": "/ˈfɪɡjər/",
+  "trans": "n.数据"
+ },
+ {
+  "word": "fluctuate",
+  "phonetic0": "/ˈflʌktʃueɪt/",
+  "trans": "v.波动,起伏"
+ },
+ {
+  "word": "further",
+  "phonetic0": "/ˈfɜːrðər/",
+  "trans": "v. 促进,推进 a. 进一步的 ad. 更远地,再往前地"
+ },
+ {
+  "word": "gradually",
+  "phonetic0": "/ˈɡrædʒuəli/",
+  "trans": "ad. 逐渐"
+ },
+ {
+  "word": "graph",
+  "phonetic0": "/ɡræf/",
+  "trans": "折线图;线形图表"
+ },
+ {
+  "word": "grateful",
+  "phonetic0": "/ˈɡreɪtf(ə)l/",
+  "trans": "a. 感谢的,感激的"
+ },
+ {
+  "word": "grow",
+  "phonetic0": "/ɡroʊ/",
+  "trans": "v. 上升"
+ },
+ {
+  "word": "growth",
+  "phonetic0": "/ɡroʊθ/",
+  "trans": "n. 上升"
+ },
+ {
+  "word": "heartfelt",
+  "phonetic0": "/ˈhɑːrtfelt/",
+  "trans": "a. 由衷的,诚挚的"
+ },
+ {
+  "word": "help",
+  "phonetic0": "/help/",
+  "trans": "帮助"
+ },
+ {
+  "word": "hence",
+  "phonetic0": "/hens/",
+  "trans": "ad. 因此"
+ },
+ {
+  "word": "hesitate",
+  "phonetic0": "/ˈhezɪteɪt/",
+  "trans": "v. 犹豫"
+ },
+ {
+  "word": "illustrate",
+  "phonetic0": "/ˈɪləstreɪt/",
+  "trans": "v.说明"
+ },
+ {
+  "word": "importance",
+  "phonetic0": "/ɪmˈpɔːrt(ə)ns/",
+  "trans": "n.重要性"
+ },
+ {
+  "word": "important",
+  "phonetic0": "/ɪmˈpɔːrt(ə)nt/",
+  "trans": "a. 重要的,重大的"
+ },
+ {
+  "word": "improve",
+  "phonetic0": "/ɪmˈpruːv/",
+  "trans": "v. 提升,改善"
+ },
+ {
+  "word": "inconvenience",
+  "phonetic0": "/ˌɪnkənˈviːniəns/",
+  "trans": "n. 不便,麻烦"
+ },
+ {
+  "word": "increase",
+  "phonetic0": "/ɪnˈkriːs/",
+  "trans": "v. 上升"
+ },
+ {
+  "word": "indicate",
+  "phonetic0": "/ˈɪndɪkeɪt/",
+  "trans": "v. 表明"
+ },
+ {
+  "word": "inform",
+  "phonetic0": "/ɪnˈfɔːrm/",
+  "trans": "v.告知"
+ },
+ {
+  "word": "information",
+  "phonetic0": "/ˌɪnfərˈmeɪʃ(ə)n/",
+  "trans": "n. 信息"
+ },
+ {
+  "word": "inquire",
+  "phonetic0": "/ɪnˈkwaɪər/",
+  "trans": "v.询问"
+ },
+ {
+  "word": "inquiry",
+  "phonetic0": "/ˈɪnkwəri; ɪnˈkwaɪəri/",
+  "trans": "n. 询问"
+ },
+ {
+  "word": "introduce",
+  "phonetic0": "/ˌɪntrəˈduːs/",
+  "trans": "v. 介绍,引见"
+ },
+ {
+  "word": "invitation",
+  "phonetic0": "/ˌɪnvɪˈteɪʃ(ə)n/",
+  "trans": "n. 邀请"
+ },
+ {
+  "word": "invite",
+  "phonetic0": "/ɪnˈvaɪt/",
+  "trans": "v. 邀请"
+ },
+ {
+  "word": "issue",
+  "phonetic0": "/ˈɪʃuː/",
+  "trans": "n. 问题"
+ },
+ {
+  "word": "likewise",
+  "phonetic0": "/ˈlaɪkwaɪz/",
+  "trans": "ad.同样地"
+ },
+ {
+  "word": "local",
+  "phonetic0": "/ˈloʊk(ə)l/",
+  "trans": "n. 当地人 a. 当地的,本地的"
+ },
+ {
+  "word": "long-term",
+  "phonetic0": "/ˌlɔːŋ ˈtɜːrm/",
+  "trans": "长期的努力/不懈的努力"
+ },
+ {
+  "word": "mainly",
+  "phonetic0": "/ˈmeɪnli/",
+  "trans": "ad.主要地"
+ },
+ {
+  "word": "maintain",
+  "phonetic0": "/meɪnˈteɪn/",
+  "trans": "v.保持"
+ },
+ {
+  "word": "measure",
+  "phonetic0": "/ˈmeʒər/",
+  "trans": "n. 措施"
+ },
+ {
+  "word": "mention",
+  "phonetic0": "/ˈmenʃ(ə)n/",
+  "trans": "v. 提到,谈及"
+ },
+ {
+  "word": "nearly",
+  "phonetic0": "/ˈnɪrli/",
+  "trans": "ad.几乎;将近"
+ },
+ {
+  "word": "negative",
+  "phonetic0": "/ˈneɡətɪv/",
+  "trans": "a.消极的;有害的"
+ },
+ {
+  "word": "notice",
+  "phonetic0": "/ˈnoʊtɪs/",
+  "trans": "n. 通知"
+ },
+ {
+  "word": "notify",
+  "phonetic0": "/ˈnoʊtɪfaɪ/",
+  "trans": "v.通知"
+ },
+ {
+  "word": "number",
+  "phonetic0": "/ˈnʌmbər/",
+  "trans": "n. 数量"
+ },
+ {
+  "word": "obviously",
+  "phonetic0": "/ˈɑːbviəsli/",
+  "trans": "ad. 明显地"
+ },
+ {
+  "word": "occur",
+  "phonetic0": "/əˈkɜːr/",
+  "trans": "v.(尤指意外地)发生,出现"
+ },
+ {
+  "word": "offer",
+  "phonetic0": "/ˈɔːfər/",
+  "trans": "v. 提供,给予"
+ },
+ {
+  "word": "opinion",
+  "phonetic0": "/əˈpɪnjən/",
+  "trans": "n. 观点"
+ },
+ {
+  "word": "outweigh",
+  "phonetic0": "/ˌaʊtˈweɪ/",
+  "trans": "优点大于缺点"
+ },
+ {
+  "word": "overall",
+  "phonetic0": "/ˌoʊvərˈɔːl/",
+  "trans": "总体上来看"
+ },
+ {
+  "word": "overcome",
+  "phonetic0": "/ˌoʊvərˈkʌm/",
+  "trans": "v. 克服,解决"
+ },
+ {
+  "word": "peak",
+  "phonetic0": "/piːk/",
+  "trans": "最高点"
+ },
+ {
+  "word": "percentage",
+  "phonetic0": "/pərˈsentɪdʒ/",
+  "trans": "n.百分比"
+ },
+ {
+  "word": "personally",
+  "phonetic0": "/ˈpɜːrsənəli/",
+  "trans": "ad. 就我个人来说"
+ },
+ {
+  "word": "phenomenon",
+  "phonetic0": "/fəˈnɑːmɪnən/",
+  "trans": "n.现象"
+ },
+ {
+  "word": "plunge",
+  "phonetic0": "/plʌndʒ/",
+  "trans": "v.暴跌,骤降"
+ },
+ {
+  "word": "positive",
+  "phonetic0": "/ˈpɑːzətɪv/",
+  "trans": "a.积极乐观的;有助益的"
+ },
+ {
+  "word": "prepare",
+  "phonetic0": "/prɪˈper/",
+  "trans": "v. 准备"
+ },
+ {
+  "word": "present",
+  "phonetic0": "/ˈprez(ə)nt; prɪˈzent/",
+  "trans": "v. 出席,现身"
+ },
+ {
+  "word": "proportion",
+  "phonetic0": "/prəˈpɔːrʃ(ə)n/",
+  "trans": "n.份额;比例"
+ },
+ {
+  "word": "provide",
+  "phonetic0": "/prəˈvaɪd/",
+  "trans": "v. 提供"
+ },
+ {
+  "word": "purpose",
+  "phonetic0": "/ˈpɜːrpəs/",
+  "trans": "n. 意图;目的"
+ },
+ {
+  "word": "raise",
+  "phonetic0": "/reɪz/",
+  "trans": "养育,培养"
+ },
+ {
+  "word": "rapid",
+  "phonetic0": "/ˈræpɪd/",
+  "trans": "a.快速的;迅速的"
+ },
+ {
+  "word": "realize",
+  "phonetic0": "/ˈriːəlaɪz/",
+  "trans": "v.意识到"
+ },
+ {
+  "word": "recently",
+  "phonetic0": "/ˈriːs(ə)ntli/",
+  "trans": "ad. 最近,不久前"
+ },
+ {
+  "word": "recommendation",
+  "phonetic0": "/ˌrekəmenˈdeɪʃ(ə)n/",
+  "trans": "n. 推荐;提议"
+ },
+ {
+  "word": "reduce",
+  "phonetic0": "/rɪˈduːs/",
+  "trans": "释放压力"
+ },
+ {
+  "word": "reflect",
+  "phonetic0": "/rɪˈflekt/",
+  "trans": "v. 阐明/传达/体现/反映/揭示/暗指/暗示/暗示"
+ },
+ {
+  "word": "regarding",
+  "phonetic0": "/rɪˈɡɑːrdɪŋ/",
+  "trans": "prep. 关于"
+ },
+ {
+  "word": "regret",
+  "phonetic0": "/rɪˈɡret/",
+  "trans": "v. 懊悔,惋惜;感到抱歉"
+ },
+ {
+  "word": "relatively",
+  "phonetic0": "/ˈrelətɪvli/",
+  "trans": "ad.相当地;相对地"
+ },
+ {
+  "word": "remain",
+  "phonetic0": "/rɪˈmeɪn/",
+  "trans": "保持不变"
+ },
+ {
+  "word": "remind",
+  "phonetic0": "/rɪˈmaɪnd/",
+  "trans": "v. 提醒,使想起"
+ },
+ {
+  "word": "reply",
+  "phonetic0": "/rɪˈplaɪ/",
+  "trans": "n.答复"
+ },
+ {
+  "word": "respectively",
+  "phonetic0": "/rɪˈspektɪvli/",
+  "trans": "ad. 各自"
+ },
+ {
+  "word": "response",
+  "phonetic0": "/rɪˈspɑːns/",
+  "trans": "相反/截然不同的反应/态度"
+ },
+ {
+  "word": "reveal",
+  "phonetic0": "/rɪˈviːl/",
+  "trans": "v. 揭示;揭露"
+ },
+ {
+  "word": "rise",
+  "phonetic0": "/raɪz/",
+  "trans": "v. 上升"
+ },
+ {
+  "word": "roughly",
+  "phonetic0": "/ˈrʌfli/",
+  "trans": "ad.大约;大致"
+ },
+ {
+  "word": "schedule",
+  "phonetic0": "/ˈskedʒuːl/",
+  "trans": "n.日程表"
+ },
+ {
+  "word": "seek",
+  "phonetic0": "/siːk/",
+  "trans": "追求真理"
+ },
+ {
+  "word": "seriously",
+  "phonetic0": "/ˈsɪriəsli/",
+  "trans": "ad. 严肃地,认真地"
+ },
+ {
+  "word": "sharp",
+  "phonetic0": "/ʃɑːrp/",
+  "trans": "a.鲜明的"
+ },
+ {
+  "word": "shift",
+  "phonetic0": "/ʃɪft/",
+  "trans": "逃避责任"
+ },
+ {
+  "word": "show",
+  "phonetic0": "/ʃoʊ/",
+  "trans": "v. 显示"
+ },
+ {
+  "word": "similarly",
+  "phonetic0": "/ˈsɪmələrli/",
+  "trans": "ad. 同样地"
+ },
+ {
+  "word": "sincere",
+  "phonetic0": "/sɪnˈsɪr/",
+  "trans": "a.衷心的,诚挚的"
+ },
+ {
+  "word": "slight",
+  "phonetic0": "/slaɪt/",
+  "trans": "a./ad. 小幅度"
+ },
+ {
+  "word": "slightly",
+  "phonetic0": "/ˈslaɪtli/",
+  "trans": "ad.略微;稍微"
+ },
+ {
+  "word": "soar",
+  "phonetic0": "/sɔːr/",
+  "trans": "大幅上升,骤增"
+ },
+ {
+  "word": "solution",
+  "phonetic0": "/səˈluːʃ(ə)n/",
+  "trans": "n.解决办法"
+ },
+ {
+  "word": "solve",
+  "phonetic0": "/sɑːlv/",
+  "trans": "v. 解决"
+ },
+ {
+  "word": "stable",
+  "phonetic0": "/ˈsteɪb(ə)l/",
+  "trans": "a. 稳定的"
+ },
+ {
+  "word": "statistics",
+  "phonetic0": "/stəˈtɪstɪks/",
+  "trans": "n.统计数字"
+ },
+ {
+  "word": "steady",
+  "phonetic0": "/ˈstedi/",
+  "trans": "a.稳步的,持续的"
+ },
+ {
+  "word": "steep",
+  "phonetic0": "/stiːp/",
+  "trans": "a.急剧的"
+ },
+ {
+  "word": "strongly",
+  "phonetic0": "/ˈstrɔːŋli/",
+  "trans": "ad.坚定地"
+ },
+ {
+  "word": "suggest",
+  "phonetic0": "/səˈdʒest/",
+  "trans": "v. 建议"
+ },
+ {
+  "word": "suggestion",
+  "phonetic0": "/səˈdʒestʃən; səɡˈdʒestʃən/",
+  "trans": "n.建议"
+ },
+ {
+  "word": "suitable",
+  "phonetic0": "/ˈsuːtəb(ə)l/",
+  "trans": "a. 适宜的,合适的"
+ },
+ {
+  "word": "support",
+  "phonetic0": "/səˈpɔːrt/",
+  "trans": "v.&n. 支持,拥护"
+ },
+ {
+  "word": "surge",
+  "phonetic0": "/sɜːrdʒ/",
+  "trans": "大幅上升,骤增"
+ },
+ {
+  "word": "survey",
+  "phonetic0": "/ˈsɜːrveɪ/",
+  "trans": "v.&n. 调查;考察"
+ },
+ {
+  "word": "table",
+  "phonetic0": "/ˈteɪbl/",
+  "trans": "n. 表格"
+ },
+ {
+  "word": "target",
+  "phonetic0": "/ˈtɑːrɡɪt/",
+  "trans": "n. 目标,目的"
+ },
+ {
+  "word": "tendency",
+  "phonetic0": "/ˈtendənsi/",
+  "trans": "n. 倾向"
+ },
+ {
+  "word": "therefore",
+  "phonetic0": "/ˈðerfɔːr/",
+  "trans": "ad. 因此"
+ },
+ {
+  "word": "topic",
+  "phonetic0": "/ˈtɑːpɪk/",
+  "trans": "n. 主题"
+ },
+ {
+  "word": "trend",
+  "phonetic0": "/trend/",
+  "trans": "n.趋势"
+ },
+ {
+  "word": "typical",
+  "phonetic0": "/ˈtɪpɪk(ə)l/",
+  "trans": "一个常见/典型/普遍存在的/流行的社会场景/现象"
+ },
+ {
+  "word": "unfortunately",
+  "phonetic0": "/ʌnˈfɔːrtʃənətli/",
+  "trans": "ad. 遗憾地"
+ },
+ {
+  "word": "urge",
+  "phonetic0": "/ɜːrdʒ/",
+  "trans": "v. 敦促"
+ },
+ {
+  "word": "whereas",
+  "phonetic0": "/ˌwerˈæz/",
+  "trans": "相比之下;相反;而"
+ },
+ {
+  "word": "witness",
+  "phonetic0": "/ˈwɪtnəs/",
+  "trans": "v.见证"
+ },
+ {
+  "word": "arise",
+  "phonetic0": "/əˈraɪz/",
+  "trans": [
+   "v. 产生，出现；起源（于），由……引出；起床，起立；上升"
+  ]
+ },
+ {
+  "word": "balance",
+  "phonetic0": "/ˈbæləns/",
+  "trans": "n. 平衡"
+ },
+ {
+  "word": "concentrate",
+  "phonetic0": "/ˈkɑːns(ə)ntreɪt/",
+  "trans": [
+   "v. 集中注意力，聚精会神；使集中，聚集；浓缩"
+  ]
+ },
+ {
+  "word": "consist",
+  "phonetic0": "/kənˈsɪst; ˈkɑːnsɪst/",
+  "trans": [
+   "v. 由……组成，由……构成；在于，存在于"
+  ]
+ },
+ {
+  "word": "contribute",
+  "phonetic0": "/kənˈtrɪbjuːt/",
+  "trans": [
+   "v. 捐赠，捐助；（为……）做贡献；促成，是……的原因之一；撰稿，投稿；发表意见，提议"
+  ]
+ },
+ {
+  "word": "cope",
+  "phonetic0": "/koʊp/",
+  "trans": [
+   "v. 对付，处理"
+  ]
+ },
+ {
+  "word": "cost",
+  "phonetic0": "/kɔːst/",
+  "trans": "费用"
+ },
+ {
+  "word": "deal",
+  "phonetic0": "/diːl/",
+  "trans": [
+   "n. 大量；交易；坏运气，不公平的对待；发牌；冷衫木；优惠的价格，划算的价格；牌戏的一局；一手牌"
+  ]
+ },
+ {
+  "word": "depend",
+  "phonetic0": "/dɪˈpend/",
+  "trans": [
+   "v. 取决于；依赖，依靠；相信，指望；那得看情况；（语法上）从属（depend on/upon）"
+  ]
+ },
+ {
+  "word": "due",
+  "phonetic0": "/duː/",
+  "trans": [
+   "adj. 到期的，预期的；应有的，应得的；应付的，应给的；适当的"
+  ]
+ },
+ {
+  "word": "fluctuation",
+  "phonetic0": "/ˌflʌktʃuˈeɪʃn/",
+  "trans": "n. 起伏,波动"
+ },
+ {
+  "word": "focus",
+  "phonetic0": "/ˈfoʊkəs/",
+  "trans": [
+   "n. 重点，中心点；关注，注意；震源；目的，意图；焦距；病灶；调焦装置；目的明确，专注；（椭圆、抛物线等曲线的）焦点"
+  ]
+ },
+ {
+  "word": "increasingly",
+  "phonetic0": "/ɪnˈkriːsɪŋli/",
+  "trans": "逐渐地;渐进地"
+ },
+ {
+  "word": "lead",
+  "phonetic0": "/liːd/",
+  "trans": [
+   "v. 引领，带路；通向，通往；（与……）相连，相通；领导，指挥；导致，造成；促使，使得；过（某种生活）；领先，居于首位；开牌；对（证人）进行诱询；用水砣测深"
+  ]
+ },
+ {
+  "word": "limit",
+  "phonetic0": "/ˈlɪmɪt/",
+  "trans": "n. 限制"
+ },
+ {
+  "word": "main",
+  "phonetic0": "/meɪn/",
+  "trans": "a. 主要的"
+ },
+ {
+  "word": "necessary",
+  "phonetic0": "/ˈnesəseri/",
+  "trans": "a. 必要的"
+ },
+ {
+  "word": "nowadays",
+  "phonetic0": "/ˈnaʊədeɪz/",
+  "trans": "ad. 目前"
+ },
+ {
+  "word": "obvious",
+  "phonetic0": "/ˈɑːbviəs/",
+  "trans": "a. 明显的"
+ },
+ {
+  "word": "reason",
+  "phonetic0": "/ˈriːz(ə)n/",
+  "trans": "原因"
+ },
+ {
+  "word": "reasonable",
+  "phonetic0": "/ˈriːz(ə)nəb(ə)l/",
+  "trans": "a.有判断力的"
+ },
+ {
+  "word": "rely",
+  "phonetic0": "/rɪˈlaɪ/",
+  "trans": [
+   "v. 相信，信赖；依靠，依赖"
+  ]
+ },
+ {
+  "word": "result",
+  "phonetic0": "/rɪˈzʌlt/",
+  "trans": [
+   "n. 结果，后果；（比赛或选举的）结果；（通过调查、研究、计算而获得的）结果；<英> 考试成绩；成效，成果（results）；经营业绩（results）；<英，非正式>（体育比赛中）胜局，获胜"
+  ]
+ },
+ {
+  "word": "suffer",
+  "phonetic0": "/ˈsʌfər/",
+  "trans": "v. 忍受"
+ },
+ {
+  "word": "thank",
+  "phonetic0": "/θæŋk/",
+  "trans": "n. 感谢"
+ },
+ {
+  "word": "various",
+  "phonetic0": "/ˈveriəs/",
+  "trans": "a. 各种各样的"
+ },
+ {
+  "word": "account",
+  "phonetic0": "/əˈkaʊnt/",
+  "trans": "考虑......"
+ },
+ {
+  "word": "achieve",
+  "phonetic0": "/əˈtʃiːv/",
+  "trans": "v. 完成（finish 的升级表达）"
+ },
+ {
+  "word": "address",
+  "phonetic0": "/əˈdres/",
+  "trans": "n. 地址；活用：vt. 设法解决;处理"
+ },
+ {
+  "word": "appreciate",
+  "phonetic0": "/əˈpriːʃieɪt/",
+  "trans": "v. 欣赏（admire 的升级表达）"
+ },
+ {
+  "word": "approach",
+  "phonetic0": "/əˈproʊtʃ/",
+  "trans": "处理"
+ },
+ {
+  "word": "approximately",
+  "phonetic0": "/əˈprɑːksɪmətli/",
+  "trans": "ad. 大约（about 的升级表达）"
+ },
+ {
+  "word": "attempt",
+  "phonetic0": "/əˈtempt/",
+  "trans": "试图（升级表达）"
+ },
+ {
+  "word": "beneficial",
+  "phonetic0": "/ˌbenɪˈfɪʃ(ə)l/",
+  "trans": "a. 有益的"
+ },
+ {
+  "word": "cause",
+  "phonetic0": "/kɔːz/",
+  "trans": "v. 引起"
+ },
+ {
+  "word": "crucial",
+  "phonetic0": "/ˈkruːʃ(ə)l/",
+  "trans": "a. 重要的（important 的升级表达）"
+ },
+ {
+  "word": "currently",
+  "phonetic0": "/ˈkɜːrəntli/",
+  "trans": "目前（升级表达）"
+ },
+ {
+  "word": "demonstrate",
+  "phonetic0": "/ˈdemənstreɪt/",
+  "trans": "v. 显示（show 的升级表达）"
+ },
+ {
+  "word": "eliminate",
+  "phonetic0": "/ɪˈlɪmɪneɪt/",
+  "trans": "消除（升级表达）"
+ },
+ {
+  "word": "emerge",
+  "phonetic0": "/ɪˈmɜːrdʒ/",
+  "trans": "v. 出现（appear 的升级表达）"
+ },
+ {
+  "word": "enhance",
+  "phonetic0": "/ɪnˈhæns/",
+  "trans": "v.增强,提高,改善"
+ },
+ {
+  "word": "essential",
+  "phonetic0": "/ɪˈsenʃ(ə)l/",
+  "trans": "a. 必不可少的"
+ },
+ {
+  "word": "establish",
+  "phonetic0": "/ɪˈstæblɪʃ/",
+  "trans": "v. 建立（build 的升级表达）"
+ },
+ {
+  "word": "frequently",
+  "phonetic0": "/ˈfriːkwəntli/",
+  "trans": "ad. 常常（often 的升级表达）"
+ },
+ {
+  "word": "gain",
+  "phonetic0": "/ɡeɪn/",
+  "trans": "v. 获得"
+ },
+ {
+  "word": "gratitude",
+  "phonetic0": "/ˈɡrætɪtuːd/",
+  "trans": "n. 感激之情,感谢"
+ },
+ {
+  "word": "impact",
+  "phonetic0": "/ˈɪmpækt/",
+  "trans": "n. 影响（influence 的升级表达）"
+ },
+ {
+  "word": "inevitable",
+  "phonetic0": "/ɪnˈevɪtəb(ə)l/",
+  "trans": "a. 不可避免的（unavoidable 的升级表达）"
+ },
+ {
+  "word": "influence",
+  "phonetic0": "/ˈɪnfluəns/",
+  "trans": "n. 影响"
+ },
+ {
+  "word": "lack",
+  "phonetic0": "/læk/",
+  "trans": "n. 缺乏（shortage 的升级表达）"
+ },
+ {
+  "word": "means",
+  "phonetic0": "/miːnz/",
+  "trans": "n. 方法;途径"
+ },
+ {
+  "word": "method",
+  "phonetic0": "/ˈmeθəd/",
+  "trans": "n.方法,办法"
+ },
+ {
+  "word": "numerous",
+  "phonetic0": "/ˈnuːmərəs/",
+  "trans": "许多的（升级表达）"
+ },
+ {
+  "word": "obtain",
+  "phonetic0": "/əbˈteɪn/",
+  "trans": "获得（升级表达）"
+ },
+ {
+  "word": "opportunity",
+  "phonetic0": "/ˌɑːpərˈtuːnəti/",
+  "trans": "n. 时机,机会"
+ },
+ {
+  "word": "particular",
+  "phonetic0": "/pərˈtɪkjələr/",
+  "trans": "特别的（升级表达）"
+ },
+ {
+  "word": "primary",
+  "phonetic0": "/ˈpraɪmeri/",
+  "trans": "a. 主要的（main 的升级表达）"
+ },
+ {
+  "word": "promote",
+  "phonetic0": "/prəˈmoʊt/",
+  "trans": "v. 促进"
+ },
+ {
+  "word": "recommend",
+  "phonetic0": "/ˌrekəˈmend/",
+  "trans": "v.推荐"
+ },
+ {
+  "word": "satisfy",
+  "phonetic0": "/ˈsætɪsfaɪ/",
+  "trans": "满足"
+ },
+ {
+  "word": "significant",
+  "phonetic0": "/sɪɡˈnɪfɪkənt/",
+  "trans": "a.有重大意义的"
+ },
+ {
+  "word": "sincerely",
+  "phonetic0": "/sɪnˈsɪrli/",
+  "trans": "ad.真诚地,由衷地"
+ },
+ {
+  "word": "strengthen",
+  "phonetic0": "/ˈstreŋ(k)θ(ə)n/",
+  "trans": "v. 提高,加强（improve 的升级表达）"
+ },
+ {
+  "word": "sufficient",
+  "phonetic0": "/səˈfɪʃ(ə)nt/",
+  "trans": "足够的（升级表达）"
+ },
+ {
+  "word": "tackle",
+  "phonetic0": "/ˈtæk(ə)l/",
+  "trans": "v. 解决（solve 的升级表达）"
+ },
+ {
+  "word": "ultimately",
+  "phonetic0": "/ˈʌltɪmətli/",
+  "trans": "ad. 最终（finally 的升级表达）"
+ },
+ {
+  "word": "vary",
+  "phonetic0": "/ˈveri; ˈværi/",
+  "trans": "改变（升级表达）"
+ },
+ {
+  "word": "vital",
+  "phonetic0": "/ˈvaɪt(ə)l/",
+  "trans": "a. 重要的（important 的升级表达）"
+ }
+]

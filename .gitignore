@@ -15,3 +15,8 @@ debug.keystore
 *.keystore
 *.apk
 *.aab
+dist/
+*.exe
+*.msi
+*.dmg
+*.pkg
