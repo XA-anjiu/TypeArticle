@@ -23,6 +23,8 @@ data class WordUiState(
     val showMeaning: Boolean = true,
     val showPhonetic: Boolean = true,
     val isListeningMode: Boolean = false,
+    /** 默写：开启则隐藏单词（凭记忆拼），关闭则显示单词（跟打） */
+    val dictation: Boolean = false,
     val tokenRender: TokenRender? = null,
     val isEnd: Boolean = false,
     val stats: WordStats = WordStats(),

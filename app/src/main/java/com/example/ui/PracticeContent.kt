@@ -424,7 +424,11 @@ fun WordPractice(state: WordUiState, vm: WordDictationViewModel) {
                                 }
                                 Caret()
                                 if (r.remainingText.isNotEmpty()) {
-                                    Text(dots(r.remainingText.length), color = c.soft, fontFamily = mono, fontSize = 40.sp, lineHeight = 54.sp)
+                                    Text(
+                                        if (state.dictation) dots(r.remainingText.length) else r.remainingText,
+                                        color = if (state.dictation) c.soft else c.text,
+                                        fontFamily = mono, fontSize = 40.sp, lineHeight = 54.sp,
+                                    )
                                 }
                             }
                         }

@@ -84,7 +84,8 @@ class WordDictationViewModel(
                 _uiState.value = _uiState.value.copy(
                     showMeaning = s.showMeaning,
                     showPhonetic = s.showPhonetic,
-                    isListeningMode = s.wordMode == WordMode.LISTENING
+                    isListeningMode = s.wordMode == WordMode.LISTENING,
+                    dictation = s.dictation
                 )
             }
         }
