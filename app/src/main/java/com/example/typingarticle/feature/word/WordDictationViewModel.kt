@@ -140,8 +140,13 @@ class WordDictationViewModel(
                 wordRepository.getProgress(bookId).coerceIn(0, (words.size - 1).coerceAtLeast(0))
             }
 
-            loadWordsIntoEngine(currentWordList, startIdx)
+            currentWordList = words
+            wrongWordsSet.clear()
+            startedAt = System.currentTimeMillis()
+            totalSpendMs = 0L
 
+            // 必须先更新 bookId / isWrongOnlyMode，再加载引擎：
+            // 否则加载触发的首次渲染会把新词库的索引写进上一个词库的进度。
             _uiState.value = _uiState.value.copy(
                 bookId = bookId,
                 bookName = book?.name ?: "单词默写",
@@ -149,6 +154,8 @@ class WordDictationViewModel(
                 isWrongOnlyMode = false,
                 isLoading = false
             )
+
+            loadWordsIntoEngine(currentWordList, startIdx)
 
             // 首次发音当前词
             replayWord()
@@ -185,13 +192,13 @@ class WordDictationViewModel(
             startedAt = System.currentTimeMillis()
             totalSpendMs = 0L
 
-            loadWordsIntoEngine(currentWordList)
-
             _uiState.value = _uiState.value.copy(
-                totalWords = wrongWords.size,
+                totalWords = currentWordList.size,
                 isWrongOnlyMode = true,
                 isLoading = false
             )
+
+            loadWordsIntoEngine(currentWordList, 0)
 
             replayWord()
         }
